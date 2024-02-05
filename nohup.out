@@ -1,0 +1,5353 @@
+start_time: 2024-01-22 12:22:39
+Scene:PeMS08
+Network: ER
+Node Number: 170
+
+epoch 0
+current temp: 1
+loss:0.04948805714754716 mse:0.007280517311301082
+time for this dyn_adj epoch:51.9
+best epoch: 0
+best epoch: 0
+time for this whole epoch:51.9
+
+epoch 1
+current temp: 1
+loss:0.02293461443779661 mse:0.0010515188809949905
+time for this dyn_adj epoch:48.57
+best epoch: 1
+best epoch: 1
+time for this whole epoch:48.57
+
+epoch 2
+current temp: 1
+loss:0.019593793964725645 mse:0.0008571993897203357
+time for this dyn_adj epoch:57.18
+best epoch: 2
+best epoch: 2
+time for this whole epoch:57.18
+
+epoch 3
+current temp: 1
+loss:0.019026604981736882 mse:0.0008332897524815052
+time for this dyn_adj epoch:47.82
+best epoch: 3
+best epoch: 3
+time for this whole epoch:47.83
+
+epoch 4
+current temp: 1
+loss:0.01876503914367298 mse:0.0008192616398446262
+time for this dyn_adj epoch:50.41
+best epoch: 4
+best epoch: 4
+time for this whole epoch:50.42
+
+epoch 5
+current temp: 1
+loss:0.018336195928729412 mse:0.0008015806053299457
+time for this dyn_adj epoch:48.09
+best epoch: 5
+best epoch: 5
+time for this whole epoch:48.09
+
+epoch 6
+current temp: 1
+loss:0.018669004174332846 mse:0.0008166476571932435
+time for this dyn_adj epoch:47.91
+best epoch: 5
+time for this whole epoch:47.91
+
+epoch 7
+current temp: 1
+loss:0.018318580903660727 mse:0.0008015721279662103
+time for this dyn_adj epoch:50.95
+best epoch: 7
+best epoch: 7
+time for this whole epoch:50.96
+
+epoch 8
+current temp: 1
+loss:0.018243197340874328 mse:0.0007951750641223043
+time for this dyn_adj epoch:48.14
+best epoch: 8
+best epoch: 8
+time for this whole epoch:48.15
+
+epoch 9
+current temp: 1
+loss:0.018424775271731263 mse:0.0008007887669373304
+time for this dyn_adj epoch:49.9
+best epoch: 8
+time for this whole epoch:49.9
+
+epoch 10
+current temp: 1
+loss:0.018244055987061823 mse:0.0007907721726223827
+time for this dyn_adj epoch:49.59
+best epoch: 8
+time for this whole epoch:49.59
+
+epoch 11
+current temp: 1
+loss:0.01824887283622999 mse:0.000788196922512725
+time for this dyn_adj epoch:48.66
+best epoch: 8
+time for this whole epoch:48.66
+
+epoch 12
+current temp: 1
+loss:0.018113578899599175 mse:0.0007778721337672323
+time for this dyn_adj epoch:47.82
+best epoch: 12
+best epoch: 12
+time for this whole epoch:47.83
+
+epoch 13
+current temp: 1
+loss:0.018065174968310574 mse:0.000772613778244704
+time for this dyn_adj epoch:51.54
+best epoch: 13
+best epoch: 13
+time for this whole epoch:51.54
+
+epoch 14
+current temp: 1
+loss:0.017826726027271325 mse:0.0007577039860188961
+time for this dyn_adj epoch:48.81
+best epoch: 14
+best epoch: 14
+time for this whole epoch:48.81
+
+epoch 15
+current temp: 1
+loss:0.01767066491710241 mse:0.0007471076957881451
+time for this dyn_adj epoch:51.41
+best epoch: 15
+best epoch: 15
+time for this whole epoch:51.42
+
+epoch 16
+current temp: 1
+loss:0.01778257769962554 mse:0.0007491761434357614
+time for this dyn_adj epoch:55.64
+best epoch: 15
+time for this whole epoch:55.64
+
+epoch 17
+current temp: 1
+loss:0.017676368915941567 mse:0.0007438862067647279
+time for this dyn_adj epoch:51.62
+best epoch: 15
+time for this whole epoch:51.62
+
+epoch 18
+current temp: 1
+loss:0.017456349665819503 mse:0.0007323792029637844
+time for this dyn_adj epoch:48.96
+best epoch: 18
+best epoch: 18
+time for this whole epoch:48.97
+
+epoch 19
+current temp: 1
+loss:0.017513655550367033 mse:0.0007313362904824317
+time for this dyn_adj epoch:50.95
+best epoch: 18
+time for this whole epoch:50.95
+
+epoch 20
+current temp: 1
+loss:0.01753747669936103 mse:0.0007299400924239308
+time for this dyn_adj epoch:54.38
+best epoch: 18
+time for this whole epoch:54.38
+
+epoch 21
+current temp: 1
+loss:0.017479762544335028 mse:0.0007252866541966796
+time for this dyn_adj epoch:47.94
+best epoch: 18
+time for this whole epoch:47.94
+
+epoch 22
+current temp: 1
+loss:0.01737359424811952 mse:0.0007210895942989737
+time for this dyn_adj epoch:51.14
+best epoch: 22
+best epoch: 22
+time for this whole epoch:51.14
+
+epoch 23
+current temp: 1
+loss:0.0173025880921906 mse:0.0007138436636887491
+time for this dyn_adj epoch:57.15
+best epoch: 23
+best epoch: 23
+time for this whole epoch:57.16
+
+epoch 24
+current temp: 1
+loss:0.017371106409166448 mse:0.0007144830643665046
+time for this dyn_adj epoch:52.75
+best epoch: 23
+time for this whole epoch:52.75
+
+epoch 25
+current temp: 1
+loss:0.01718843137861832 mse:0.0007055070030037313
+time for this dyn_adj epoch:47.62
+best epoch: 25
+best epoch: 25
+time for this whole epoch:47.62
+
+epoch 26
+current temp: 1
+loss:0.017283842031049598 mse:0.0007083694008179009
+time for this dyn_adj epoch:48.73
+best epoch: 25
+time for this whole epoch:48.73
+
+epoch 27
+current temp: 1
+loss:0.017152729557416237 mse:0.000701552975224331
+time for this dyn_adj epoch:54.27
+best epoch: 27
+best epoch: 27
+time for this whole epoch:54.28
+
+epoch 28
+current temp: 1
+loss:0.017219741073601386 mse:0.0007046497508417814
+time for this dyn_adj epoch:47.89
+best epoch: 27
+time for this whole epoch:47.89
+
+epoch 29
+current temp: 1
+loss:0.01722764836465392 mse:0.0007061841245740653
+time for this dyn_adj epoch:48.03
+best epoch: 27
+time for this whole epoch:48.03
+
+epoch 30
+current temp: 1
+loss:0.017043707499116222 mse:0.0006955851125530899
+time for this dyn_adj epoch:47.73
+best epoch: 30
+best epoch: 30
+time for this whole epoch:47.74
+
+epoch 31
+current temp: 1
+loss:0.01719536414419246 mse:0.0007019101490732282
+time for this dyn_adj epoch:47.41
+best epoch: 30
+time for this whole epoch:47.41
+
+epoch 32
+current temp: 1
+loss:0.017053000566494815 mse:0.000694510618923232
+time for this dyn_adj epoch:47.68
+best epoch: 30
+time for this whole epoch:47.68
+
+epoch 33
+current temp: 1
+loss:0.016955775380490676 mse:0.0006900305754970759
+time for this dyn_adj epoch:47.9
+best epoch: 33
+best epoch: 33
+time for this whole epoch:47.9
+
+epoch 34
+current temp: 1
+loss:0.01731791576384293 mse:0.0007084910862613469
+time for this dyn_adj epoch:52.17
+best epoch: 33
+time for this whole epoch:52.17
+
+epoch 35
+current temp: 1
+loss:0.017081901165081518 mse:0.0006956723995972425
+time for this dyn_adj epoch:48.54
+best epoch: 33
+time for this whole epoch:48.54
+
+epoch 36
+current temp: 1
+loss:0.01703933788252556 mse:0.00069252788904123
+time for this dyn_adj epoch:47.75
+best epoch: 33
+time for this whole epoch:47.75
+
+epoch 37
+current temp: 1
+loss:0.01717668654572438 mse:0.0006968180986586958
+time for this dyn_adj epoch:49.51
+best epoch: 33
+time for this whole epoch:49.51
+
+epoch 38
+current temp: 1
+loss:0.01705120316914776 mse:0.0006911882071290165
+time for this dyn_adj epoch:47.99
+best epoch: 33
+time for this whole epoch:47.99
+
+epoch 39
+current temp: 1
+loss:0.016850587472374386 mse:0.0006836915505118668
+time for this dyn_adj epoch:55.27
+best epoch: 39
+best epoch: 39
+time for this whole epoch:55.27
+
+epoch 40
+current temp: 1
+loss:0.01690900254087961 mse:0.0006859631615225226
+time for this dyn_adj epoch:50.53
+best epoch: 39
+time for this whole epoch:50.53
+
+epoch 41
+current temp: 1
+loss:0.017121869711944945 mse:0.0006972489051986486
+time for this dyn_adj epoch:51.8
+best epoch: 39
+time for this whole epoch:51.8
+
+epoch 42
+current temp: 1
+loss:0.01695027609257137 mse:0.000687977597117424
+time for this dyn_adj epoch:50.94
+best epoch: 39
+time for this whole epoch:50.94
+
+epoch 43
+current temp: 1
+loss:0.017162047481219123 mse:0.0006968551187310367
+time for this dyn_adj epoch:49.76
+best epoch: 39
+time for this whole epoch:49.76
+
+epoch 44
+current temp: 1
+loss:0.016915591877556466 mse:0.000684655966470018
+time for this dyn_adj epoch:48.49
+best epoch: 39
+time for this whole epoch:48.49
+
+epoch 45
+current temp: 1
+loss:0.01685985346836969 mse:0.000681415282888338
+time for this dyn_adj epoch:47.95
+best epoch: 39
+time for this whole epoch:47.95
+
+epoch 46
+current temp: 1
+loss:0.016853880737415134 mse:0.0006816384033299982
+time for this dyn_adj epoch:48.45
+best epoch: 39
+time for this whole epoch:48.45
+
+epoch 47
+current temp: 1
+loss:0.016997857277035056 mse:0.0006884055607952178
+time for this dyn_adj epoch:49.17
+best epoch: 39
+time for this whole epoch:49.17
+
+epoch 48
+current temp: 1
+loss:0.017062013480319257 mse:0.0006914873409550637
+time for this dyn_adj epoch:47.73
+best epoch: 39
+time for this whole epoch:47.73
+
+epoch 49
+current temp: 1
+loss:0.016841839488732687 mse:0.000681352042593062
+time for this dyn_adj epoch:48.05
+best epoch: 49
+best epoch: 49
+time for this whole epoch:48.06
+
+epoch 50
+current temp: 1
+loss:0.01701073937213925 mse:0.0006895787594839931
+time for this dyn_adj epoch:47.68
+best epoch: 49
+time for this whole epoch:47.68
+
+epoch 51
+current temp: 1
+loss:0.01694279047918013 mse:0.0006855320534668863
+time for this dyn_adj epoch:47.93
+best epoch: 49
+time for this whole epoch:47.93
+
+epoch 52
+current temp: 1
+loss:0.016745738353415886 mse:0.0006762184028048068
+time for this dyn_adj epoch:47.69
+best epoch: 52
+best epoch: 52
+time for this whole epoch:47.7
+
+epoch 53
+current temp: 1
+loss:0.016879891662776248 mse:0.0006822594709228725
+time for this dyn_adj epoch:48.32
+best epoch: 52
+time for this whole epoch:48.32
+
+epoch 54
+current temp: 1
+loss:0.01699741482227931 mse:0.0006875318067613989
+time for this dyn_adj epoch:48.11
+best epoch: 52
+time for this whole epoch:48.11
+
+epoch 55
+current temp: 1
+loss:0.016814774232149565 mse:0.0006785222771577538
+time for this dyn_adj epoch:48.12
+best epoch: 52
+time for this whole epoch:48.12
+
+epoch 56
+current temp: 1
+loss:0.01669940838792964 mse:0.0006737639487255365
+time for this dyn_adj epoch:47.36
+best epoch: 56
+best epoch: 56
+time for this whole epoch:47.36
+
+epoch 57
+current temp: 1
+loss:0.016796859170200632 mse:0.0006794092862401158
+time for this dyn_adj epoch:47.82
+best epoch: 56
+time for this whole epoch:47.82
+
+epoch 58
+current temp: 1
+loss:0.0168439987675999 mse:0.0006810378597583622
+time for this dyn_adj epoch:48.02
+best epoch: 56
+time for this whole epoch:48.02
+
+epoch 59
+current temp: 1
+loss:0.01674154352407683 mse:0.0006756311247590929
+time for this dyn_adj epoch:49.17
+best epoch: 56
+time for this whole epoch:49.17
+
+epoch 60
+current temp: 1
+loss:0.01671816312234082 mse:0.0006741675361990929
+time for this dyn_adj epoch:47.46
+best epoch: 56
+time for this whole epoch:47.46
+
+epoch 61
+current temp: 1
+loss:0.016959156567312995 mse:0.0006853864039294422
+time for this dyn_adj epoch:48.49
+best epoch: 56
+time for this whole epoch:48.49
+
+epoch 62
+current temp: 1
+loss:0.016738883127129688 mse:0.0006756764801684766
+time for this dyn_adj epoch:47.52
+best epoch: 56
+time for this whole epoch:47.52
+
+epoch 63
+current temp: 1
+loss:0.016563537755351077 mse:0.000668986407108605
+time for this dyn_adj epoch:47.6
+best epoch: 63
+best epoch: 63
+time for this whole epoch:47.6
+
+epoch 64
+current temp: 1
+loss:0.016561000515706838 mse:0.0006680937588680536
+time for this dyn_adj epoch:47.03
+best epoch: 64
+best epoch: 64
+time for this whole epoch:47.04
+
+epoch 65
+current temp: 1
+loss:0.016693266187575374 mse:0.0006717192486394197
+time for this dyn_adj epoch:51.85
+best epoch: 64
+time for this whole epoch:51.85
+
+epoch 66
+current temp: 1
+loss:0.01685493476466988 mse:0.0006792463851161301
+time for this dyn_adj epoch:48.68
+best epoch: 64
+time for this whole epoch:48.68
+
+epoch 67
+current temp: 1
+loss:0.016778689061729784 mse:0.0006774939701426774
+time for this dyn_adj epoch:48.04
+best epoch: 64
+time for this whole epoch:48.04
+
+epoch 68
+current temp: 1
+loss:0.01678341234513723 mse:0.0006761080154683441
+time for this dyn_adj epoch:48.83
+best epoch: 64
+time for this whole epoch:48.83
+
+epoch 69
+current temp: 1
+loss:0.016791000247741227 mse:0.0006762743962462992
+time for this dyn_adj epoch:48.39
+best epoch: 64
+time for this whole epoch:48.39
+
+epoch 70
+current temp: 1
+loss:0.016856410049038997 mse:0.0006813360645901412
+time for this dyn_adj epoch:47.62
+best epoch: 64
+time for this whole epoch:47.62
+
+epoch 71
+current temp: 1
+loss:0.016897179024787073 mse:0.0006823130475822836
+time for this dyn_adj epoch:47.53
+best epoch: 64
+time for this whole epoch:47.53
+
+epoch 72
+current temp: 1
+loss:0.01669668008732226 mse:0.0006738536490593105
+time for this dyn_adj epoch:47.65
+best epoch: 64
+time for this whole epoch:47.65
+
+epoch 73
+current temp: 1
+loss:0.016685511254376787 mse:0.0006706558866426349
+time for this dyn_adj epoch:49.07
+best epoch: 64
+time for this whole epoch:49.07
+
+epoch 74
+current temp: 1
+loss:0.016875198321252626 mse:0.0006802931358106434
+time for this dyn_adj epoch:48.06
+best epoch: 64
+time for this whole epoch:48.06
+
+epoch 75
+current temp: 1
+loss:0.016903538176598135 mse:0.0006823539605829864
+time for this dyn_adj epoch:47.45
+best epoch: 64
+time for this whole epoch:47.45
+
+epoch 76
+current temp: 1
+loss:0.01678267294239691 mse:0.0006776843836996705
+time for this dyn_adj epoch:47.24
+best epoch: 64
+time for this whole epoch:47.24
+
+epoch 77
+current temp: 1
+loss:0.016760274145341314 mse:0.0006739864172413945
+time for this dyn_adj epoch:47.48
+best epoch: 64
+time for this whole epoch:47.48
+
+epoch 78
+current temp: 1
+loss:0.01681801479991854 mse:0.0006758448493201285
+time for this dyn_adj epoch:47.55
+best epoch: 64
+time for this whole epoch:47.55
+
+epoch 79
+current temp: 1
+loss:0.016784779139657452 mse:0.0006780017830897122
+time for this dyn_adj epoch:50.23
+best epoch: 64
+time for this whole epoch:50.23
+
+epoch 80
+current temp: 1
+loss:0.016935000052182552 mse:0.0006842998100910336
+time for this dyn_adj epoch:51.55
+best epoch: 64
+time for this whole epoch:51.56
+
+epoch 81
+current temp: 1
+loss:0.016762114457539556 mse:0.0006754327495582401
+time for this dyn_adj epoch:48.13
+best epoch: 64
+time for this whole epoch:48.13
+
+epoch 82
+current temp: 1
+loss:0.01679408794945544 mse:0.0006750739284325391
+time for this dyn_adj epoch:48.51
+best epoch: 64
+time for this whole epoch:48.51
+
+epoch 83
+current temp: 1
+loss:0.01675160762681352 mse:0.0006754146586172283
+time for this dyn_adj epoch:47.28
+best epoch: 64
+time for this whole epoch:47.28
+
+epoch 84
+current temp: 1
+loss:0.016863786853986845 mse:0.0006822690484113991
+time for this dyn_adj epoch:47.32
+best epoch: 64
+time for this whole epoch:47.32
+
+epoch 85
+current temp: 1
+loss:0.01675735284829074 mse:0.0006765090429689735
+time for this dyn_adj epoch:47.44
+best epoch: 64
+time for this whole epoch:47.44
+
+epoch 86
+current temp: 1
+loss:0.0166987945539329 mse:0.0006717301928438246
+time for this dyn_adj epoch:47.89
+best epoch: 64
+time for this whole epoch:47.89
+
+epoch 87
+current temp: 1
+loss:0.016703586830675382 mse:0.0006726469669956714
+time for this dyn_adj epoch:51.03
+best epoch: 64
+time for this whole epoch:51.03
+
+epoch 88
+current temp: 1
+loss:0.01675887505354031 mse:0.0006767209072131664
+time for this dyn_adj epoch:49.5
+best epoch: 64
+time for this whole epoch:49.5
+
+epoch 89
+current temp: 1
+loss:0.016808460873524275 mse:0.0006788053060881793
+time for this dyn_adj epoch:49.41
+best epoch: 64
+time for this whole epoch:49.41
+
+epoch 90
+current temp: 1
+loss:0.016785839254200897 mse:0.0006748179276473821
+time for this dyn_adj epoch:47.29
+best epoch: 64
+time for this whole epoch:47.29
+
+epoch 91
+current temp: 1
+loss:0.016750812221154134 mse:0.0006742511107586325
+time for this dyn_adj epoch:52.91
+best epoch: 64
+time for this whole epoch:52.91
+
+epoch 92
+current temp: 1
+loss:0.016809565090903023 mse:0.0006783729291055351
+time for this dyn_adj epoch:47.56
+best epoch: 64
+time for this whole epoch:47.56
+
+epoch 93
+current temp: 1
+loss:0.016784786461386828 mse:0.0006786741758696735
+time for this dyn_adj epoch:49.53
+best epoch: 64
+time for this whole epoch:49.53
+
+epoch 94
+current temp: 1
+loss:0.016653875090757057 mse:0.0006697116582654416
+time for this dyn_adj epoch:49.99
+best epoch: 64
+time for this whole epoch:49.99
+
+epoch 95
+current temp: 1
+loss:0.016649102960137982 mse:0.0006696549546904862
+time for this dyn_adj epoch:50.03
+best epoch: 64
+time for this whole epoch:50.03
+
+epoch 96
+current temp: 1
+loss:0.016736968236454926 mse:0.0006754731887485832
+time for this dyn_adj epoch:47.51
+best epoch: 64
+time for this whole epoch:47.51
+
+epoch 97
+current temp: 1
+loss:0.01678683246647501 mse:0.0006779073376674206
+time for this dyn_adj epoch:46.96
+best epoch: 64
+time for this whole epoch:46.96
+
+epoch 98
+current temp: 1
+loss:0.01679894056795713 mse:0.0006754482199903578
+time for this dyn_adj epoch:46.9
+best epoch: 64
+time for this whole epoch:46.9
+
+epoch 99
+current temp: 1
+loss:0.016746576396940167 mse:0.0006740975577849894
+time for this dyn_adj epoch:46.75
+best epoch: 64
+time for this whole epoch:46.75
+
+epoch 100
+current temp: 1
+loss:0.016754273267545024 mse:0.0006770257488824428
+time for this dyn_adj epoch:49.13
+best epoch: 64
+time for this whole epoch:49.13
+
+epoch 101
+current temp: 1
+loss:0.016750639062484397 mse:0.0006758995749987661
+time for this dyn_adj epoch:46.55
+best epoch: 64
+time for this whole epoch:46.55
+
+epoch 102
+current temp: 1
+loss:0.016752215675133117 mse:0.0006734353757929057
+time for this dyn_adj epoch:49.13
+best epoch: 64
+time for this whole epoch:49.13
+
+epoch 103
+current temp: 1
+loss:0.01670745269318714 mse:0.0006727146124467253
+time for this dyn_adj epoch:50.39
+best epoch: 64
+time for this whole epoch:50.39
+
+epoch 104
+current temp: 1
+loss:0.016755995238747667 mse:0.000677828915650025
+time for this dyn_adj epoch:48.62
+best epoch: 64
+time for this whole epoch:48.62
+
+epoch 105
+current temp: 1
+loss:0.016656792804187928 mse:0.0006710471934638917
+time for this dyn_adj epoch:46.78
+best epoch: 64
+time for this whole epoch:46.78
+
+epoch 106
+current temp: 1
+loss:0.01675983610483544 mse:0.000674344094004482
+time for this dyn_adj epoch:47.71
+best epoch: 64
+time for this whole epoch:47.71
+
+epoch 107
+current temp: 1
+loss:0.016702212863629134 mse:0.0006745300581678748
+time for this dyn_adj epoch:47.1
+best epoch: 64
+time for this whole epoch:47.1
+
+epoch 108
+current temp: 1
+loss:0.016770476356833517 mse:0.0006774134351871907
+time for this dyn_adj epoch:47.0
+best epoch: 64
+time for this whole epoch:47.0
+
+epoch 109
+current temp: 1
+loss:0.016688822021105273 mse:0.0006716889678500592
+time for this dyn_adj epoch:47.96
+best epoch: 64
+time for this whole epoch:47.96
+
+epoch 110
+current temp: 1
+loss:0.016705887503456324 mse:0.0006723289529327304
+time for this dyn_adj epoch:51.17
+best epoch: 64
+time for this whole epoch:51.17
+
+epoch 111
+current temp: 1
+loss:0.016721999332774427 mse:0.0006746941374149173
+time for this dyn_adj epoch:47.57
+best epoch: 64
+time for this whole epoch:47.57
+
+epoch 112
+current temp: 1
+loss:0.016637051468167238 mse:0.0006709480180870741
+time for this dyn_adj epoch:50.96
+best epoch: 64
+time for this whole epoch:50.96
+
+epoch 113
+current temp: 1
+loss:0.01667618288368206 mse:0.0006711979606188834
+time for this dyn_adj epoch:47.33
+best epoch: 64
+time for this whole epoch:47.33
+
+epoch 114
+current temp: 1
+loss:0.01676994212179938 mse:0.000673928182804957
+time for this dyn_adj epoch:48.98
+best epoch: 64
+time for this whole epoch:48.98
+
+epoch 115
+current temp: 1
+loss:0.016779190503992143 mse:0.0006767502729780972
+time for this dyn_adj epoch:47.73
+best epoch: 64
+time for this whole epoch:47.73
+
+epoch 116
+current temp: 1
+loss:0.016704021370997104 mse:0.0006745627312920988
+time for this dyn_adj epoch:47.06
+best epoch: 64
+time for this whole epoch:47.06
+
+epoch 117
+current temp: 1
+loss:0.016793105569722896 mse:0.0006754741794429719
+time for this dyn_adj epoch:46.73
+best epoch: 64
+time for this whole epoch:46.73
+
+epoch 118
+current temp: 1
+loss:0.016698898399467855 mse:0.0006715294357854873
+time for this dyn_adj epoch:46.96
+best epoch: 64
+time for this whole epoch:46.96
+
+epoch 119
+current temp: 1
+loss:0.016716360050637057 mse:0.0006745127029716969
+time for this dyn_adj epoch:46.8
+best epoch: 64
+time for this whole epoch:46.8
+
+epoch 120
+current temp: 1
+loss:0.016675870971480277 mse:0.000671532234409824
+time for this dyn_adj epoch:48.17
+best epoch: 64
+time for this whole epoch:48.17
+
+epoch 121
+current temp: 1
+loss:0.016775989448487322 mse:0.0006733274017460644
+time for this dyn_adj epoch:46.0
+best epoch: 64
+time for this whole epoch:46.0
+
+epoch 122
+current temp: 1
+loss:0.016690764543271678 mse:0.0006724212691187858
+time for this dyn_adj epoch:47.26
+best epoch: 64
+time for this whole epoch:47.26
+
+epoch 123
+current temp: 1
+loss:0.01672938908414696 mse:0.0006749644654337317
+time for this dyn_adj epoch:46.31
+best epoch: 64
+time for this whole epoch:46.31
+
+epoch 124
+current temp: 1
+loss:0.01678451570093303 mse:0.0006763935659546405
+time for this dyn_adj epoch:47.65
+best epoch: 64
+time for this whole epoch:47.65
+
+epoch 125
+current temp: 1
+loss:0.016735182193354427 mse:0.0006722620269283652
+time for this dyn_adj epoch:46.49
+best epoch: 64
+time for this whole epoch:46.49
+
+epoch 126
+current temp: 1
+loss:0.016689460854128223 mse:0.0006727566081099212
+time for this dyn_adj epoch:47.06
+best epoch: 64
+time for this whole epoch:47.06
+
+epoch 127
+current temp: 1
+loss:0.016739886531715886 mse:0.0006750726129394024
+time for this dyn_adj epoch:47.02
+best epoch: 64
+time for this whole epoch:47.02
+
+epoch 128
+current temp: 1
+loss:0.016779516017831425 mse:0.000674387626349926
+time for this dyn_adj epoch:46.97
+best epoch: 64
+time for this whole epoch:46.97
+
+epoch 129
+current temp: 1
+loss:0.016651813222341896 mse:0.0006695139943622053
+time for this dyn_adj epoch:47.08
+best epoch: 64
+time for this whole epoch:47.08
+
+epoch 130
+current temp: 1
+loss:0.01670162720934433 mse:0.0006738421320915222
+time for this dyn_adj epoch:46.99
+best epoch: 64
+time for this whole epoch:46.99
+
+epoch 131
+current temp: 1
+loss:0.016687146786901662 mse:0.0006717150064650923
+time for this dyn_adj epoch:46.71
+best epoch: 64
+time for this whole epoch:46.71
+
+epoch 132
+current temp: 1
+loss:0.01672514843902386 mse:0.0006714108539745212
+time for this dyn_adj epoch:54.61
+best epoch: 64
+time for this whole epoch:54.61
+
+epoch 133
+current temp: 1
+loss:0.016708843882551744 mse:0.0006722952204290777
+time for this dyn_adj epoch:46.99
+best epoch: 64
+time for this whole epoch:46.99
+
+epoch 134
+current temp: 1
+loss:0.0167686372000231 mse:0.0006769051519222558
+time for this dyn_adj epoch:46.8
+best epoch: 64
+time for this whole epoch:46.8
+
+epoch 135
+current temp: 1
+loss:0.0166706920197124 mse:0.0006712407153099775
+time for this dyn_adj epoch:47.21
+best epoch: 64
+time for this whole epoch:47.21
+
+epoch 136
+current temp: 1
+loss:0.016717333517420815 mse:0.0006713972543366253
+time for this dyn_adj epoch:46.77
+best epoch: 64
+time for this whole epoch:46.77
+
+epoch 137
+current temp: 1
+loss:0.016623638185864206 mse:0.0006697692687157541
+time for this dyn_adj epoch:46.84
+best epoch: 64
+time for this whole epoch:46.84
+
+epoch 138
+current temp: 1
+loss:0.016714135523008947 mse:0.0006735374266281724
+time for this dyn_adj epoch:46.98
+best epoch: 64
+time for this whole epoch:46.98
+
+epoch 139
+current temp: 1
+loss:0.016663442498127765 mse:0.0006699265504721552
+time for this dyn_adj epoch:46.69
+best epoch: 64
+time for this whole epoch:46.69
+
+epoch 140
+current temp: 1
+loss:0.01669680375953698 mse:0.0006709781649988144
+time for this dyn_adj epoch:46.69
+best epoch: 64
+time for this whole epoch:46.69
+
+epoch 141
+current temp: 1
+loss:0.016609007341020245 mse:0.0006694758229423315
+time for this dyn_adj epoch:46.81
+best epoch: 64
+time for this whole epoch:46.81
+
+epoch 142
+current temp: 1
+loss:0.01671509793943123 mse:0.0006731997069437057
+time for this dyn_adj epoch:49.03
+best epoch: 64
+time for this whole epoch:49.03
+
+epoch 143
+current temp: 1
+loss:0.01676272599905839 mse:0.0006740997836459428
+time for this dyn_adj epoch:47.33
+best epoch: 64
+time for this whole epoch:47.33
+
+epoch 144
+current temp: 1
+loss:0.01663157311481807 mse:0.0006694315478671342
+time for this dyn_adj epoch:46.38
+best epoch: 64
+time for this whole epoch:46.38
+
+epoch 145
+current temp: 1
+loss:0.016622549102367722 mse:0.0006701948039699346
+time for this dyn_adj epoch:47.43
+best epoch: 64
+time for this whole epoch:47.43
+
+epoch 146
+current temp: 1
+loss:0.01670106673153008 mse:0.0006725310289766639
+time for this dyn_adj epoch:47.73
+best epoch: 64
+time for this whole epoch:47.73
+
+epoch 147
+current temp: 1
+loss:0.016755807524437415 mse:0.0006748902925755828
+time for this dyn_adj epoch:47.22
+best epoch: 64
+time for this whole epoch:47.22
+
+epoch 148
+current temp: 1
+loss:0.016611355760463457 mse:0.0006689328071661293
+time for this dyn_adj epoch:46.71
+best epoch: 64
+time for this whole epoch:46.71
+
+epoch 149
+current temp: 1
+loss:0.016602788800674985 mse:0.0006694829778280109
+time for this dyn_adj epoch:47.09
+best epoch: 64
+time for this whole epoch:47.09
+
+epoch 150
+current temp: 1
+loss:0.0166247563713285 mse:0.0006680744944605976
+time for this dyn_adj epoch:47.46
+best epoch: 64
+time for this whole epoch:47.46
+
+epoch 151
+current temp: 1
+loss:0.016754657437641395 mse:0.0006735304195899516
+time for this dyn_adj epoch:49.35
+best epoch: 64
+time for this whole epoch:49.35
+
+epoch 152
+current temp: 1
+loss:0.016647568097995485 mse:0.0006717374117579311
+time for this dyn_adj epoch:46.81
+best epoch: 64
+time for this whole epoch:46.81
+
+epoch 153
+current temp: 1
+loss:0.01668761851553641 mse:0.0006724377837963402
+time for this dyn_adj epoch:51.35
+best epoch: 64
+time for this whole epoch:51.35
+
+epoch 154
+current temp: 1
+loss:0.01663683812684544 mse:0.0006693799560889602
+time for this dyn_adj epoch:47.41
+best epoch: 64
+time for this whole epoch:47.41
+
+epoch 155
+current temp: 1
+loss:0.016707622247802863 mse:0.0006708506750874221
+time for this dyn_adj epoch:47.87
+best epoch: 64
+time for this whole epoch:47.87
+
+epoch 156
+current temp: 1
+loss:0.016612439087865985 mse:0.0006696030090097338
+time for this dyn_adj epoch:47.72
+best epoch: 64
+time for this whole epoch:47.72
+
+epoch 157
+current temp: 1
+loss:0.016658463541199178 mse:0.0006713293259963393
+time for this dyn_adj epoch:46.53
+best epoch: 64
+time for this whole epoch:46.53
+
+epoch 158
+current temp: 1
+loss:0.01664216304058209 mse:0.0006694143253844231
+time for this dyn_adj epoch:48.74
+best epoch: 64
+time for this whole epoch:48.74
+
+epoch 159
+current temp: 1
+loss:0.016691663270925777 mse:0.000671124329091981
+time for this dyn_adj epoch:48.09
+best epoch: 64
+time for this whole epoch:48.09
+
+epoch 160
+current temp: 1
+loss:0.016644785616711223 mse:0.0006704844278283417
+time for this dyn_adj epoch:47.8
+best epoch: 64
+time for this whole epoch:47.8
+
+epoch 161
+current temp: 1
+loss:0.016587338577298556 mse:0.0006681079510599374
+time for this dyn_adj epoch:47.42
+best epoch: 64
+time for this whole epoch:47.42
+
+epoch 162
+current temp: 1
+loss:0.016623761946171083 mse:0.0006677072658203542
+time for this dyn_adj epoch:46.17
+best epoch: 64
+time for this whole epoch:46.17
+
+epoch 163
+current temp: 1
+loss:0.016597790024215905 mse:0.0006673632096499205
+time for this dyn_adj epoch:49.57
+best epoch: 64
+time for this whole epoch:49.57
+
+epoch 164
+current temp: 1
+loss:0.01651612408081179 mse:0.0006651239353232085
+time for this dyn_adj epoch:47.66
+best epoch: 164
+best epoch: 164
+time for this whole epoch:47.67
+
+epoch 165
+current temp: 1
+loss:0.016573390817488817 mse:0.000666591350454837
+time for this dyn_adj epoch:49.49
+best epoch: 164
+time for this whole epoch:49.49
+
+epoch 166
+current temp: 1
+loss:0.016631426346789612 mse:0.0006679880316369236
+time for this dyn_adj epoch:48.88
+best epoch: 164
+time for this whole epoch:48.88
+
+epoch 167
+current temp: 1
+loss:0.016715569084510204 mse:0.000671168293338269
+time for this dyn_adj epoch:47.89
+best epoch: 164
+time for this whole epoch:47.89
+
+epoch 168
+current temp: 1
+loss:0.016588016863117984 mse:0.0006684799818322063
+time for this dyn_adj epoch:47.91
+best epoch: 164
+time for this whole epoch:47.91
+
+epoch 169
+current temp: 1
+loss:0.016623774879146368 mse:0.0006690299289766699
+time for this dyn_adj epoch:46.87
+best epoch: 164
+time for this whole epoch:46.87
+
+epoch 170
+current temp: 1
+loss:0.016612875654553882 mse:0.0006674746563658118
+time for this dyn_adj epoch:49.63
+best epoch: 164
+time for this whole epoch:49.63
+
+epoch 171
+current temp: 1
+loss:0.016663875856080698 mse:0.0006692350236698985
+time for this dyn_adj epoch:46.54
+best epoch: 164
+time for this whole epoch:46.54
+
+epoch 172
+current temp: 1
+loss:0.01653056730992873 mse:0.0006645199435297399
+time for this dyn_adj epoch:46.84
+best epoch: 164
+time for this whole epoch:46.84
+
+epoch 173
+current temp: 1
+loss:0.016653711478088928 mse:0.0006693292118143291
+time for this dyn_adj epoch:51.18
+best epoch: 164
+time for this whole epoch:51.18
+
+epoch 174
+current temp: 1
+loss:0.016593763144467685 mse:0.0006658710539340973
+time for this dyn_adj epoch:49.62
+best epoch: 164
+time for this whole epoch:49.62
+
+epoch 175
+current temp: 1
+loss:0.016663753181120712 mse:0.0006695032492280007
+time for this dyn_adj epoch:46.44
+best epoch: 164
+time for this whole epoch:46.44
+
+epoch 176
+current temp: 1
+loss:0.016634513645241145 mse:0.0006680659251287579
+time for this dyn_adj epoch:46.69
+best epoch: 164
+time for this whole epoch:46.69
+
+epoch 177
+current temp: 1
+loss:0.01673301050979096 mse:0.0006719558534678072
+time for this dyn_adj epoch:51.04
+best epoch: 164
+time for this whole epoch:51.04
+
+epoch 178
+current temp: 1
+loss:0.016654387371888495 mse:0.0006685889896471054
+time for this dyn_adj epoch:51.57
+best epoch: 164
+time for this whole epoch:51.57
+
+epoch 179
+current temp: 1
+loss:0.016705967874403163 mse:0.0006706239935010672
+time for this dyn_adj epoch:47.66
+best epoch: 164
+time for this whole epoch:47.66
+
+epoch 180
+current temp: 1
+loss:0.01657319926738958 mse:0.0006668111984618008
+time for this dyn_adj epoch:48.73
+best epoch: 164
+time for this whole epoch:48.73
+
+epoch 181
+current temp: 1
+loss:0.016638287914396428 mse:0.0006686649657785893
+time for this dyn_adj epoch:46.77
+best epoch: 164
+time for this whole epoch:46.77
+
+epoch 182
+current temp: 1
+loss:0.016637650689657998 mse:0.0006679043022450059
+time for this dyn_adj epoch:46.62
+best epoch: 164
+time for this whole epoch:46.62
+
+epoch 183
+current temp: 1
+loss:0.01662102527505554 mse:0.0006684239080641419
+time for this dyn_adj epoch:47.21
+best epoch: 164
+time for this whole epoch:47.21
+
+epoch 184
+current temp: 1
+loss:0.016617982907987692 mse:0.0006680074566975236
+time for this dyn_adj epoch:50.11
+best epoch: 164
+time for this whole epoch:50.11
+
+epoch 185
+current temp: 1
+loss:0.01663687720782507 mse:0.0006678171292878687
+time for this dyn_adj epoch:47.3
+best epoch: 164
+time for this whole epoch:47.3
+
+epoch 186
+current temp: 1
+loss:0.01665139876278665 mse:0.0006681727850809693
+time for this dyn_adj epoch:50.04
+best epoch: 164
+time for this whole epoch:50.04
+
+epoch 187
+current temp: 1
+loss:0.016631673845106405 mse:0.0006672108615748584
+time for this dyn_adj epoch:47.82
+best epoch: 164
+time for this whole epoch:47.82
+
+epoch 188
+current temp: 1
+loss:0.016672115963253686 mse:0.0006696466344874352
+time for this dyn_adj epoch:46.28
+best epoch: 164
+time for this whole epoch:46.28
+
+epoch 189
+current temp: 1
+loss:0.016609413762138606 mse:0.0006671266863122582
+time for this dyn_adj epoch:50.49
+best epoch: 164
+time for this whole epoch:50.49
+
+epoch 190
+current temp: 1
+loss:0.016661675666294555 mse:0.0006687081081327051
+time for this dyn_adj epoch:51.69
+best epoch: 164
+time for this whole epoch:51.69
+
+epoch 191
+current temp: 1
+loss:0.016617719508707524 mse:0.0006675407465081662
+time for this dyn_adj epoch:47.0
+best epoch: 164
+time for this whole epoch:47.0
+
+epoch 192
+current temp: 1
+loss:0.016705964067923455 mse:0.0006702288484666496
+time for this dyn_adj epoch:47.07
+best epoch: 164
+time for this whole epoch:47.07
+
+epoch 193
+current temp: 1
+loss:0.016530670051079464 mse:0.0006639910547528416
+time for this dyn_adj epoch:46.72
+best epoch: 164
+time for this whole epoch:46.72
+
+epoch 194
+current temp: 1
+loss:0.016661688648082096 mse:0.0006689932371955365
+time for this dyn_adj epoch:51.39
+best epoch: 164
+time for this whole epoch:51.39
+
+epoch 195
+current temp: 1
+loss:0.01656870683096349 mse:0.000666416548192501
+time for this dyn_adj epoch:46.54
+best epoch: 164
+time for this whole epoch:46.54
+
+epoch 196
+current temp: 1
+loss:0.016651389652123566 mse:0.0006687958445399999
+time for this dyn_adj epoch:46.77
+best epoch: 164
+time for this whole epoch:46.77
+
+epoch 197
+current temp: 1
+loss:0.016649810909375767 mse:0.0006678061257116497
+time for this dyn_adj epoch:48.8
+best epoch: 164
+time for this whole epoch:48.8
+
+epoch 198
+current temp: 1
+loss:0.016675035658237688 mse:0.0006688798416871577
+time for this dyn_adj epoch:47.15
+best epoch: 164
+time for this whole epoch:47.15
+
+epoch 199
+current temp: 1
+loss:0.016638899323201794 mse:0.0006688503071200102
+time for this dyn_adj epoch:46.72
+best epoch: 164
+time for this whole epoch:46.72
+
+epoch 200
+current temp: 1
+loss:0.01670401911686777 mse:0.0006708103429991752
+time for this dyn_adj epoch:46.95
+best epoch: 164
+time for this whole epoch:46.95
+
+epoch 201
+current temp: 1
+loss:0.016642614941194872 mse:0.0006687190476804972
+time for this dyn_adj epoch:48.39
+best epoch: 164
+time for this whole epoch:48.39
+
+epoch 202
+current temp: 1
+loss:0.016661713953896914 mse:0.0006688200926873833
+time for this dyn_adj epoch:51.05
+best epoch: 164
+time for this whole epoch:51.05
+
+epoch 203
+current temp: 1
+loss:0.016670945572803783 mse:0.0006705316307488828
+time for this dyn_adj epoch:46.84
+best epoch: 164
+time for this whole epoch:46.84
+
+epoch 204
+current temp: 1
+loss:0.016587482038447086 mse:0.0006673568056430667
+time for this dyn_adj epoch:47.2
+best epoch: 164
+time for this whole epoch:47.2
+
+epoch 205
+current temp: 1
+loss:0.01656864426742472 mse:0.0006637653149664402
+time for this dyn_adj epoch:47.25
+best epoch: 164
+time for this whole epoch:47.25
+
+epoch 206
+current temp: 1
+loss:0.016678233820534148 mse:0.0006704314239323139
+time for this dyn_adj epoch:46.76
+best epoch: 164
+time for this whole epoch:46.76
+
+epoch 207
+current temp: 1
+loss:0.01654690112641958 mse:0.0006640203972347081
+time for this dyn_adj epoch:46.85
+best epoch: 164
+time for this whole epoch:46.85
+
+epoch 208
+current temp: 1
+loss:0.01661342887473567 mse:0.0006670592550653964
+time for this dyn_adj epoch:46.88
+best epoch: 164
+time for this whole epoch:46.88
+
+epoch 209
+current temp: 1
+loss:0.016718716539059052 mse:0.0006711731944233179
+time for this dyn_adj epoch:47.23
+best epoch: 164
+time for this whole epoch:47.23
+
+epoch 210
+current temp: 1
+loss:0.016627876424970215 mse:0.000667689919937402
+time for this dyn_adj epoch:48.08
+best epoch: 164
+time for this whole epoch:48.08
+
+epoch 211
+current temp: 1
+loss:0.0166643429081887 mse:0.0006697782466653735
+time for this dyn_adj epoch:47.8
+best epoch: 164
+time for this whole epoch:47.8
+
+epoch 212
+current temp: 1
+loss:0.01666269693652387 mse:0.0006692390877287835
+time for this dyn_adj epoch:49.42
+best epoch: 164
+time for this whole epoch:49.42
+
+epoch 213
+current temp: 1
+loss:0.016732671624460422 mse:0.0006720153091009706
+time for this dyn_adj epoch:49.09
+best epoch: 164
+time for this whole epoch:49.09
+
+epoch 214
+current temp: 1
+loss:0.016608863739954197 mse:0.0006672540656290949
+time for this dyn_adj epoch:48.02
+best epoch: 164
+time for this whole epoch:48.02
+
+epoch 215
+current temp: 1
+loss:0.016610630216378278 mse:0.0006663387862499803
+time for this dyn_adj epoch:48.76
+best epoch: 164
+time for this whole epoch:48.76
+
+epoch 216
+current temp: 1
+loss:0.016594274834346244 mse:0.00066575892502442
+time for this dyn_adj epoch:46.84
+best epoch: 164
+time for this whole epoch:46.84
+
+epoch 217
+current temp: 1
+loss:0.01663119561006041 mse:0.000667387522989884
+time for this dyn_adj epoch:49.41
+best epoch: 164
+time for this whole epoch:49.41
+
+epoch 218
+current temp: 1
+loss:0.01654706999037743 mse:0.0006651651614811272
+time for this dyn_adj epoch:46.6
+best epoch: 164
+time for this whole epoch:46.6
+
+epoch 219
+current temp: 1
+loss:0.016634931738652728 mse:0.0006679849443025888
+time for this dyn_adj epoch:54.5
+best epoch: 164
+time for this whole epoch:54.5
+
+epoch 220
+current temp: 1
+loss:0.01664620089996606 mse:0.000668143912917003
+time for this dyn_adj epoch:46.81
+best epoch: 164
+time for this whole epoch:46.81
+
+epoch 221
+current temp: 1
+loss:0.016698135838871274 mse:0.0006702206551562995
+time for this dyn_adj epoch:46.76
+best epoch: 164
+time for this whole epoch:46.76
+
+epoch 222
+current temp: 1
+loss:0.016666894816410014 mse:0.0006701154611073435
+time for this dyn_adj epoch:47.0
+best epoch: 164
+time for this whole epoch:47.0
+
+epoch 223
+current temp: 1
+loss:0.01663642639724319 mse:0.000668597409967333
+time for this dyn_adj epoch:47.24
+best epoch: 164
+time for this whole epoch:47.24
+
+epoch 224
+current temp: 1
+loss:0.016684688056106955 mse:0.0006699305633082986
+time for this dyn_adj epoch:49.54
+best epoch: 164
+time for this whole epoch:49.54
+
+epoch 225
+current temp: 1
+loss:0.016582787854240878 mse:0.0006669039791449904
+time for this dyn_adj epoch:48.61
+best epoch: 164
+time for this whole epoch:48.61
+
+epoch 226
+current temp: 1
+loss:0.016582953166983584 mse:0.0006663481483701616
+time for this dyn_adj epoch:54.18
+best epoch: 164
+time for this whole epoch:54.18
+
+epoch 227
+current temp: 1
+loss:0.01655073258110925 mse:0.0006653383187949657
+time for this dyn_adj epoch:47.02
+best epoch: 164
+time for this whole epoch:47.02
+
+epoch 228
+current temp: 1
+loss:0.016655932290589107 mse:0.0006686863047070801
+time for this dyn_adj epoch:47.46
+best epoch: 164
+time for this whole epoch:47.46
+
+epoch 229
+current temp: 1
+loss:0.01654853153365719 mse:0.0006644699210301042
+time for this dyn_adj epoch:51.45
+best epoch: 164
+time for this whole epoch:51.45
+
+epoch 230
+current temp: 1
+loss:0.016614260390126968 mse:0.0006673161906655877
+time for this dyn_adj epoch:46.62
+best epoch: 164
+time for this whole epoch:46.62
+
+epoch 231
+current temp: 1
+loss:0.016613191385041262 mse:0.0006669117382261902
+time for this dyn_adj epoch:51.64
+best epoch: 164
+time for this whole epoch:51.64
+
+epoch 232
+current temp: 1
+loss:0.01669144970666179 mse:0.0006704833020921797
+time for this dyn_adj epoch:50.11
+best epoch: 164
+time for this whole epoch:50.11
+
+epoch 233
+current temp: 1
+loss:0.01663080549776992 mse:0.0006680893083103001
+time for this dyn_adj epoch:46.42
+best epoch: 164
+time for this whole epoch:46.42
+
+epoch 234
+current temp: 1
+loss:0.01661526121229262 mse:0.0006677255325485021
+time for this dyn_adj epoch:47.44
+best epoch: 164
+time for this whole epoch:47.44
+
+epoch 235
+current temp: 1
+loss:0.016684649701778066 mse:0.0006691417342517525
+time for this dyn_adj epoch:46.82
+best epoch: 164
+time for this whole epoch:46.82
+
+epoch 236
+current temp: 1
+loss:0.016622702804531025 mse:0.0006677125429268927
+time for this dyn_adj epoch:50.67
+best epoch: 164
+time for this whole epoch:50.67
+
+epoch 237
+current temp: 1
+loss:0.01660656959267662 mse:0.0006676999211777002
+time for this dyn_adj epoch:47.31
+best epoch: 164
+time for this whole epoch:47.31
+
+epoch 238
+current temp: 1
+loss:0.016592226727509544 mse:0.0006661819119472056
+time for this dyn_adj epoch:46.84
+best epoch: 164
+time for this whole epoch:46.84
+
+epoch 239
+current temp: 1
+loss:0.01665567733363851 mse:0.0006692246615421027
+time for this dyn_adj epoch:53.2
+best epoch: 164
+time for this whole epoch:53.2
+
+epoch 240
+current temp: 1
+loss:0.016561525673961595 mse:0.0006658741133287549
+time for this dyn_adj epoch:49.07
+best epoch: 164
+time for this whole epoch:49.07
+
+epoch 241
+current temp: 1
+loss:0.01658532241293613 mse:0.0006658809341024607
+time for this dyn_adj epoch:51.89
+best epoch: 164
+time for this whole epoch:51.89
+
+epoch 242
+current temp: 1
+loss:0.016631008489303947 mse:0.0006678860716056079
+time for this dyn_adj epoch:48.35
+best epoch: 164
+time for this whole epoch:48.35
+
+epoch 243
+current temp: 1
+loss:0.01663426296845736 mse:0.0006677835690788924
+time for this dyn_adj epoch:50.42
+best epoch: 164
+time for this whole epoch:50.42
+
+epoch 244
+current temp: 1
+loss:0.016597731155042043 mse:0.0006669278186745941
+time for this dyn_adj epoch:48.41
+best epoch: 164
+time for this whole epoch:48.41
+
+epoch 245
+current temp: 1
+loss:0.016525325130698654 mse:0.0006630090519320219
+time for this dyn_adj epoch:46.7
+best epoch: 164
+time for this whole epoch:46.7
+
+epoch 246
+current temp: 1
+loss:0.01670093712413355 mse:0.000671621022047475
+time for this dyn_adj epoch:46.61
+best epoch: 164
+time for this whole epoch:46.61
+
+epoch 247
+current temp: 1
+loss:0.01660232779197395 mse:0.0006669965654145926
+time for this dyn_adj epoch:46.68
+best epoch: 164
+time for this whole epoch:46.68
+
+epoch 248
+current temp: 1
+loss:0.016617164899814213 mse:0.0006671247247140855
+time for this dyn_adj epoch:50.45
+best epoch: 164
+time for this whole epoch:50.45
+
+epoch 249
+current temp: 1
+loss:0.016577002536395893 mse:0.0006664486648514867
+time for this dyn_adj epoch:46.71
+best epoch: 164
+time for this whole epoch:46.71
+
+epoch 250
+current temp: 1
+loss:0.016649827332975452 mse:0.0006684884580317885
+time for this dyn_adj epoch:46.81
+best epoch: 164
+time for this whole epoch:46.81
+
+epoch 251
+current temp: 1
+loss:0.01662612791170421 mse:0.0006679786555469036
+time for this dyn_adj epoch:46.64
+best epoch: 164
+time for this whole epoch:46.64
+
+epoch 252
+current temp: 1
+loss:0.01661629506696344 mse:0.0006667889561504125
+time for this dyn_adj epoch:46.65
+best epoch: 164
+time for this whole epoch:46.65
+
+epoch 253
+current temp: 1
+loss:0.01664471871772891 mse:0.0006674046057742089
+time for this dyn_adj epoch:46.91
+best epoch: 164
+time for this whole epoch:46.91
+
+epoch 254
+current temp: 1
+loss:0.016571550627786882 mse:0.0006646023306529969
+time for this dyn_adj epoch:46.87
+best epoch: 164
+time for this whole epoch:46.87start_time: 2024-01-25 16:33:00
+Scene:COVID
+Network: ER
+Node Number: 3271
+
+epoch 0
+current temp: 1
+loss:0.15774340002552492 mse:1.1925594368949533
+time for this dyn_adj epoch:96.21
+best epoch: 0
+best epoch: 0
+time for this whole epoch:97.39
+
+epoch 1
+current temp: 1
+loss:0.04839363637842013 mse:0.006045053014531732
+time for this dyn_adj epoch:95.6
+best epoch: 1
+best epoch: 1
+time for this whole epoch:96.78
+
+epoch 2
+current temp: 1
+loss:0.03089014897885231 mse:0.0036730620777234435
+time for this dyn_adj epoch:95.33
+best epoch: 2
+best epoch: 2
+time for this whole epoch:96.46
+
+epoch 3
+current temp: 1
+loss:0.025934022590252494 mse:0.003291001543402672
+time for this dyn_adj epoch:94.91
+best epoch: 3
+best epoch: 3
+time for this whole epoch:96.06
+
+epoch 4
+current temp: 1
+loss:0.024765023831129766 mse:0.0030232169665396214
+time for this dyn_adj epoch:94.34
+best epoch: 4
+best epoch: 4
+time for this whole epoch:95.5
+
+epoch 5
+current temp: 1
+loss:0.023766841817974664 mse:0.0029401102801784873
+time for this dyn_adj epoch:93.2
+best epoch: 5
+best epoch: 5
+time for this whole epoch:94.37
+
+epoch 6
+current temp: 1
+loss:0.025192276359680178 mse:0.003435586695559323
+time for this dyn_adj epoch:93.49
+best epoch: 5
+time for this whole epoch:93.49
+
+epoch 7
+current temp: 1
+loss:0.02477602395160486 mse:0.003158590290695429
+time for this dyn_adj epoch:93.51
+best epoch: 5
+time for this whole epoch:93.51
+
+epoch 8
+current temp: 1
+loss:0.02466174104399494 mse:0.0033315857872366905
+time for this dyn_adj epoch:93.67
+best epoch: 5
+time for this whole epoch:93.67
+
+epoch 9
+current temp: 1
+loss:0.02470977928014543 mse:0.0030420091934502125
+time for this dyn_adj epoch:93.28
+best epoch: 5
+time for this whole epoch:93.28
+
+epoch 10
+current temp: 1
+loss:0.023873907521986554 mse:0.0031336897518485785
+time for this dyn_adj epoch:93.91
+best epoch: 5
+time for this whole epoch:93.91
+
+epoch 11
+current temp: 1
+loss:0.024351693122811123 mse:0.0031528486870229244
+time for this dyn_adj epoch:94.34
+best epoch: 5
+time for this whole epoch:94.34
+
+epoch 12
+current temp: 1
+loss:0.024650532474570115 mse:0.0030723748495802283
+time for this dyn_adj epoch:94.73
+best epoch: 5
+time for this whole epoch:94.73
+
+epoch 13
+current temp: 1
+loss:0.022944918315738708 mse:0.0030821149703115225
+time for this dyn_adj epoch:95.2
+best epoch: 13
+best epoch: 13
+time for this whole epoch:96.38
+
+epoch 14
+current temp: 1
+loss:0.023105559218224686 mse:0.0029518710216507316
+time for this dyn_adj epoch:95.22
+best epoch: 13
+time for this whole epoch:95.23
+
+epoch 15
+current temp: 1
+loss:0.02415032663144634 mse:0.0031813709065318108
+time for this dyn_adj epoch:95.44
+best epoch: 13
+time for this whole epoch:95.44
+
+epoch 16
+current temp: 1
+loss:0.023211339747917434 mse:0.003199912258423865
+time for this dyn_adj epoch:95.39
+best epoch: 13
+time for this whole epoch:95.39
+
+epoch 17
+current temp: 1
+loss:0.023102342567461014 mse:0.002941170590929687
+time for this dyn_adj epoch:95.33
+best epoch: 13
+time for this whole epoch:95.33
+
+epoch 18
+current temp: 1
+loss:0.023210185028132806 mse:0.0029727506916970015
+time for this dyn_adj epoch:95.11
+best epoch: 13
+time for this whole epoch:95.11
+
+epoch 19
+current temp: 1
+loss:0.023279111429622343 mse:0.0030398076632991433
+time for this dyn_adj epoch:95.2
+best epoch: 13
+time for this whole epoch:95.2
+
+epoch 20
+current temp: 1
+loss:0.023718773129724403 mse:0.0030935443937778473
+time for this dyn_adj epoch:95.33
+best epoch: 13
+time for this whole epoch:95.33
+
+epoch 21
+current temp: 1
+loss:0.022191744504574895 mse:0.002817186526954174
+time for this dyn_adj epoch:95.29
+best epoch: 21
+best epoch: 21
+time for this whole epoch:96.46
+
+epoch 22
+current temp: 1
+loss:0.022306826165325814 mse:0.0028768718475475907
+time for this dyn_adj epoch:95.28
+best epoch: 21
+time for this whole epoch:95.28
+
+epoch 23
+current temp: 1
+loss:0.022867067386863883 mse:0.002967237960547209
+time for this dyn_adj epoch:95.21
+best epoch: 21
+time for this whole epoch:95.21
+
+epoch 24
+current temp: 1
+loss:0.02287496941848926 mse:0.003024485311470926
+time for this dyn_adj epoch:95.1
+best epoch: 21
+time for this whole epoch:95.1
+
+epoch 25
+current temp: 1
+loss:0.02228914446495197 mse:0.002797891851514578
+time for this dyn_adj epoch:95.07
+best epoch: 21
+time for this whole epoch:95.07
+
+epoch 26
+current temp: 1
+loss:0.02153205754082545 mse:0.0026136573869735003
+time for this dyn_adj epoch:94.56
+best epoch: 26
+best epoch: 26
+time for this whole epoch:95.78
+
+epoch 27
+current temp: 1
+loss:0.021343793206112127 mse:0.0028866897337138653
+time for this dyn_adj epoch:95.24
+best epoch: 27
+best epoch: 27
+time for this whole epoch:96.42
+
+epoch 28
+current temp: 1
+loss:0.021977831458707263 mse:0.002868301933631301
+time for this dyn_adj epoch:95.04
+best epoch: 27
+time for this whole epoch:95.04
+
+epoch 29
+current temp: 1
+loss:0.022037090073202377 mse:0.002725604339502752
+time for this dyn_adj epoch:95.21
+best epoch: 27
+time for this whole epoch:95.21
+
+epoch 30
+current temp: 1
+loss:0.02226629149582305 mse:0.0028424671618267894
+time for this dyn_adj epoch:95.05
+best epoch: 27
+time for this whole epoch:95.05
+
+epoch 31
+current temp: 1
+loss:0.02162498108150151 mse:0.0028204898117110133
+time for this dyn_adj epoch:94.94
+best epoch: 27
+time for this whole epoch:94.94
+
+epoch 32
+current temp: 1
+loss:0.02195344264192994 mse:0.0027543375035747886
+time for this dyn_adj epoch:95.21
+best epoch: 27
+time for this whole epoch:95.21
+
+epoch 33
+current temp: 1
+loss:0.021688564553144087 mse:0.0028094322187826037
+time for this dyn_adj epoch:94.74
+best epoch: 27
+time for this whole epoch:94.74
+
+epoch 34
+current temp: 1
+loss:0.02078479483379804 mse:0.002496745204553008
+time for this dyn_adj epoch:95.32
+best epoch: 34
+best epoch: 34
+time for this whole epoch:96.51
+
+epoch 35
+current temp: 1
+loss:0.021656440573993463 mse:0.0026044887490570545
+time for this dyn_adj epoch:95.29
+best epoch: 34
+time for this whole epoch:95.29
+
+epoch 36
+current temp: 1
+loss:0.021554207510030482 mse:0.0027683530934154987
+time for this dyn_adj epoch:95.13
+best epoch: 34
+time for this whole epoch:95.13
+
+epoch 37
+current temp: 1
+loss:0.022425615702443908 mse:0.0028602215461432934
+time for this dyn_adj epoch:95.29
+best epoch: 34
+time for this whole epoch:95.29
+
+epoch 38
+current temp: 1
+loss:0.021634210377691906 mse:0.002706174273043871
+time for this dyn_adj epoch:95.21
+best epoch: 34
+time for this whole epoch:95.21
+
+epoch 39
+current temp: 1
+loss:0.022441905452325838 mse:0.0028048892272636294
+time for this dyn_adj epoch:95.18
+best epoch: 34
+time for this whole epoch:95.18
+
+epoch 40
+current temp: 1
+loss:0.021874349333636446 mse:0.002643867046572268
+time for this dyn_adj epoch:95.26
+best epoch: 34
+time for this whole epoch:95.26
+
+epoch 41
+current temp: 1
+loss:0.02275700069310693 mse:0.0028902717167511582
+time for this dyn_adj epoch:94.74
+best epoch: 34
+time for this whole epoch:94.74
+
+epoch 42
+current temp: 1
+loss:0.02236176115715613 mse:0.0027575596468523145
+time for this dyn_adj epoch:95.07
+best epoch: 34
+time for this whole epoch:95.07
+
+epoch 43
+current temp: 1
+loss:0.021905814997817644 mse:0.0025672076735645533
+time for this dyn_adj epoch:95.16
+best epoch: 34
+time for this whole epoch:95.16
+
+epoch 44
+current temp: 1
+loss:0.02245609904444567 mse:0.002862998517230153
+time for this dyn_adj epoch:95.22
+best epoch: 34
+time for this whole epoch:95.22
+
+epoch 45
+current temp: 1
+loss:0.02203628148155198 mse:0.0027107992209494114
+time for this dyn_adj epoch:95.27
+best epoch: 34
+time for this whole epoch:95.27
+
+epoch 46
+current temp: 1
+loss:0.020800064274800203 mse:0.002471124171279371
+time for this dyn_adj epoch:95.39
+best epoch: 34
+time for this whole epoch:95.39
+
+epoch 47
+current temp: 1
+loss:0.020546723136026894 mse:0.0026469399454072118
+time for this dyn_adj epoch:94.63
+best epoch: 47
+best epoch: 47
+time for this whole epoch:95.79
+
+epoch 48
+current temp: 1
+loss:0.021971932001508293 mse:0.0026694985572248697
+time for this dyn_adj epoch:95.21
+best epoch: 47
+time for this whole epoch:95.21
+
+epoch 49
+current temp: 1
+loss:0.02084851260048181 mse:0.00258860329631716
+time for this dyn_adj epoch:95.29
+best epoch: 47
+time for this whole epoch:95.29
+
+epoch 50
+current temp: 1
+loss:0.022005660990724304 mse:0.0027386059518903494
+time for this dyn_adj epoch:95.25
+best epoch: 47
+time for this whole epoch:95.25
+
+epoch 51
+current temp: 1
+loss:0.022164364365655873 mse:0.0029231630032882094
+time for this dyn_adj epoch:95.28
+best epoch: 47
+time for this whole epoch:95.28
+
+epoch 52
+current temp: 1
+loss:0.02210537681163316 mse:0.002840840956196189
+time for this dyn_adj epoch:94.73
+best epoch: 47
+time for this whole epoch:94.73
+
+epoch 53
+current temp: 1
+loss:0.020281893325740038 mse:0.0025191253516823053
+time for this dyn_adj epoch:95.36
+best epoch: 53
+best epoch: 53
+time for this whole epoch:96.5
+
+epoch 54
+current temp: 1
+loss:0.02192597334470756 mse:0.0028885669307783246
+time for this dyn_adj epoch:95.12
+best epoch: 53
+time for this whole epoch:95.12
+
+epoch 55
+current temp: 1
+loss:0.022593102445056544 mse:0.0028014673152938485
+time for this dyn_adj epoch:94.96
+best epoch: 53
+time for this whole epoch:94.96
+
+epoch 56
+current temp: 1
+loss:0.021520261538770243 mse:0.002736669615842402
+time for this dyn_adj epoch:95.02
+best epoch: 53
+time for this whole epoch:95.02
+
+epoch 57
+current temp: 1
+loss:0.021585390961859463 mse:0.002784668351523578
+time for this dyn_adj epoch:95.22
+best epoch: 53
+time for this whole epoch:95.22
+
+epoch 58
+current temp: 1
+loss:0.021433810278999592 mse:0.0028247700538486242
+time for this dyn_adj epoch:94.93
+best epoch: 53
+time for this whole epoch:94.93
+
+epoch 59
+current temp: 1
+loss:0.02208811055803454 mse:0.0026871286099776626
+time for this dyn_adj epoch:95.27
+best epoch: 53
+time for this whole epoch:95.28
+
+epoch 60
+current temp: 1
+loss:0.020841169467950414 mse:0.0024757974315434694
+time for this dyn_adj epoch:95.19
+best epoch: 53
+time for this whole epoch:95.19
+
+epoch 61
+current temp: 1
+loss:0.021171857934340756 mse:0.002593073877505958
+time for this dyn_adj epoch:94.6
+best epoch: 53
+time for this whole epoch:94.6
+
+epoch 62
+current temp: 1
+loss:0.021555779334112863 mse:0.0026827086694538593
+time for this dyn_adj epoch:95.09
+best epoch: 53
+time for this whole epoch:95.09
+
+epoch 63
+current temp: 1
+loss:0.021118733968569676 mse:0.002667082822881639
+time for this dyn_adj epoch:95.26
+best epoch: 53
+time for this whole epoch:95.26
+
+epoch 64
+current temp: 1
+loss:0.021435006890918748 mse:0.00258995674084872
+time for this dyn_adj epoch:95.24
+best epoch: 53
+time for this whole epoch:95.24
+
+epoch 65
+current temp: 1
+loss:0.020038854677110148 mse:0.0025248939637094736
+time for this dyn_adj epoch:95.28
+best epoch: 65
+best epoch: 65
+time for this whole epoch:96.42
+
+epoch 66
+current temp: 1
+loss:0.0214177625150489 mse:0.0025982105871662498
+time for this dyn_adj epoch:95.15
+best epoch: 65
+time for this whole epoch:95.15
+
+epoch 67
+current temp: 1
+loss:0.021247081591595586 mse:0.0029140730621293187
+time for this dyn_adj epoch:95.32
+best epoch: 65
+time for this whole epoch:95.32
+
+epoch 68
+current temp: 1
+loss:0.02064517789110734 mse:0.002446332946419716
+time for this dyn_adj epoch:95.25
+best epoch: 65
+time for this whole epoch:95.25
+
+epoch 69
+current temp: 1
+loss:0.020976304561607623 mse:0.0027308426797389984
+time for this dyn_adj epoch:95.03
+best epoch: 65
+time for this whole epoch:95.03
+
+epoch 70
+current temp: 1
+loss:0.02144052896753227 mse:0.002663179417140782
+time for this dyn_adj epoch:95.24
+best epoch: 65
+time for this whole epoch:95.24
+
+epoch 71
+current temp: 1
+loss:0.02170828729898882 mse:0.0027166218496859074
+time for this dyn_adj epoch:95.26
+best epoch: 65
+time for this whole epoch:95.26
+
+epoch 72
+current temp: 1
+loss:0.021776783113457168 mse:0.0028759862761944532
+time for this dyn_adj epoch:95.31
+best epoch: 65
+time for this whole epoch:95.31
+
+epoch 73
+current temp: 1
+loss:0.02087043541708395 mse:0.0026442394591867924
+time for this dyn_adj epoch:95.37
+best epoch: 65
+time for this whole epoch:95.37
+
+epoch 74
+current temp: 1
+loss:0.021535063226050036 mse:0.002730101579800248
+time for this dyn_adj epoch:95.16
+best epoch: 65
+time for this whole epoch:95.16
+
+epoch 75
+current temp: 1
+loss:0.02088732910888645 mse:0.0025549945421516895
+time for this dyn_adj epoch:95.17
+best epoch: 65
+time for this whole epoch:95.17
+
+epoch 76
+current temp: 1
+loss:0.02127627250167843 mse:0.002642322680912912
+time for this dyn_adj epoch:95.27
+best epoch: 65
+time for this whole epoch:95.27
+
+epoch 77
+current temp: 1
+loss:0.020683954234605492 mse:0.002529899589717388
+time for this dyn_adj epoch:95.24
+best epoch: 65
+time for this whole epoch:95.24
+
+epoch 78
+current temp: 1
+loss:0.021641833355648225 mse:0.0026866768021136522
+time for this dyn_adj epoch:95.43
+best epoch: 65
+time for this whole epoch:95.43
+
+epoch 79
+current temp: 1
+loss:0.021022630454318063 mse:0.002583319554105401
+time for this dyn_adj epoch:95.31
+best epoch: 65
+time for this whole epoch:95.31
+
+epoch 80
+current temp: 1
+loss:0.020416579573488608 mse:0.0024951837258413434
+time for this dyn_adj epoch:95.29
+best epoch: 65
+time for this whole epoch:95.29
+
+epoch 81
+current temp: 1
+loss:0.020920964577672327 mse:0.00260568642988801
+time for this dyn_adj epoch:95.23
+best epoch: 65
+time for this whole epoch:95.23
+
+epoch 82
+current temp: 1
+loss:0.02148446486012686 mse:0.002655161777511239
+time for this dyn_adj epoch:95.11
+best epoch: 65
+time for this whole epoch:95.11
+
+epoch 83
+current temp: 1
+loss:0.02247560788665753 mse:0.0027729490539059043
+time for this dyn_adj epoch:95.1
+best epoch: 65
+time for this whole epoch:95.1
+
+epoch 84
+current temp: 1
+loss:0.021694654385971998 mse:0.0027476606192067266
+time for this dyn_adj epoch:95.22
+best epoch: 65
+time for this whole epoch:95.22
+
+epoch 85
+current temp: 1
+loss:0.02132695492739111 mse:0.0027112989919260144
+time for this dyn_adj epoch:95.23
+best epoch: 65
+time for this whole epoch:95.23
+
+epoch 86
+current temp: 1
+loss:0.020353554049413358 mse:0.002512142644263804
+time for this dyn_adj epoch:95.3
+best epoch: 65
+time for this whole epoch:95.3
+
+epoch 87
+current temp: 1
+loss:0.020797189970039688 mse:0.002621027175337076
+time for this dyn_adj epoch:95.15
+best epoch: 65
+time for this whole epoch:95.15
+
+epoch 88
+current temp: 1
+loss:0.020512026349378057 mse:0.0024929996579885483
+time for this dyn_adj epoch:95.22
+best epoch: 65
+time for this whole epoch:95.22
+
+epoch 89
+current temp: 1
+loss:0.021214678957727946 mse:0.0026192510267719626
+time for this dyn_adj epoch:95.19
+best epoch: 65
+time for this whole epoch:95.19
+
+epoch 90
+current temp: 1
+loss:0.020621806764111954 mse:0.002554616192355752
+time for this dyn_adj epoch:95.22
+best epoch: 65
+time for this whole epoch:95.22
+
+epoch 91
+current temp: 1
+loss:0.02054652478331418 mse:0.0024923396995291114
+time for this dyn_adj epoch:95.26
+best epoch: 65
+time for this whole epoch:95.26
+
+epoch 92
+current temp: 1
+loss:0.01964990005375413 mse:0.0023608787450939417
+time for this dyn_adj epoch:95.17
+best epoch: 92
+best epoch: 92
+time for this whole epoch:96.28
+
+epoch 93
+current temp: 1
+loss:0.02050519518652119 mse:0.002473004045896232
+time for this dyn_adj epoch:95.11
+best epoch: 92
+time for this whole epoch:95.11
+
+epoch 94
+current temp: 1
+loss:0.02071555024080856 mse:0.002627378096804023
+time for this dyn_adj epoch:95.18
+best epoch: 92
+time for this whole epoch:95.18
+
+epoch 95
+current temp: 1
+loss:0.02111313507618716 mse:0.002520824200473726
+time for this dyn_adj epoch:94.94
+best epoch: 92
+time for this whole epoch:94.94
+
+epoch 96
+current temp: 1
+loss:0.019975446463195864 mse:0.0024482666049152613
+time for this dyn_adj epoch:95.18
+best epoch: 92
+time for this whole epoch:95.18
+
+epoch 97
+current temp: 1
+loss:0.020495834148589073 mse:0.002524576149880886
+time for this dyn_adj epoch:95.23
+best epoch: 92
+time for this whole epoch:95.24
+
+epoch 98
+current temp: 1
+loss:0.020007690775194258 mse:0.0024264814564958215
+time for this dyn_adj epoch:95.24
+best epoch: 92
+time for this whole epoch:95.24
+
+epoch 99
+current temp: 1
+loss:0.02004815010040645 mse:0.002578945830464363
+time for this dyn_adj epoch:95.36
+best epoch: 92
+time for this whole epoch:95.36
+
+epoch 100
+current temp: 1
+loss:0.019199787349284382 mse:0.0023491373285651207
+time for this dyn_adj epoch:95.26
+best epoch: 100
+best epoch: 100
+time for this whole epoch:96.37
+
+epoch 101
+current temp: 1
+loss:0.020489685730085777 mse:0.0024606864899396896
+time for this dyn_adj epoch:95.21
+best epoch: 100
+time for this whole epoch:95.21
+
+epoch 102
+current temp: 1
+loss:0.020448592707177513 mse:0.0026958760572597384
+time for this dyn_adj epoch:95.2
+best epoch: 100
+time for this whole epoch:95.2
+
+epoch 103
+current temp: 1
+loss:0.01977033777982447 mse:0.0024914381792768836
+time for this dyn_adj epoch:95.31
+best epoch: 100
+time for this whole epoch:95.31
+
+epoch 104
+current temp: 1
+loss:0.01893013845130386 mse:0.0022517041070386767
+time for this dyn_adj epoch:95.47
+best epoch: 104
+best epoch: 104
+time for this whole epoch:96.62
+
+epoch 105
+current temp: 1
+loss:0.019394046029669213 mse:0.0023383734514936805
+time for this dyn_adj epoch:95.26
+best epoch: 104
+time for this whole epoch:95.26
+
+epoch 106
+current temp: 1
+loss:0.01971515342694633 mse:0.0023917285725474358
+time for this dyn_adj epoch:95.35
+best epoch: 104
+time for this whole epoch:95.35
+
+epoch 107
+current temp: 1
+loss:0.019891450341890264 mse:0.0024179755710065365
+time for this dyn_adj epoch:95.32
+best epoch: 104
+time for this whole epoch:95.32
+
+epoch 108
+current temp: 1
+loss:0.020527970592349287 mse:0.0024604767095297575
+time for this dyn_adj epoch:95.22
+best epoch: 104
+time for this whole epoch:95.22
+
+epoch 109
+current temp: 1
+loss:0.020282108097648466 mse:0.00238679361063987
+time for this dyn_adj epoch:94.8
+best epoch: 104
+time for this whole epoch:94.8
+
+epoch 110
+current temp: 1
+loss:0.01854477148213477 mse:0.0022263918071985245
+time for this dyn_adj epoch:95.35
+best epoch: 110
+best epoch: 110
+time for this whole epoch:96.43
+
+epoch 111
+current temp: 1
+loss:0.01973515944428879 mse:0.0024102479219436646
+time for this dyn_adj epoch:95.33
+best epoch: 110
+time for this whole epoch:95.33
+
+epoch 112
+current temp: 1
+loss:0.02049817224572968 mse:0.0025581747759133577
+time for this dyn_adj epoch:95.3
+best epoch: 110
+time for this whole epoch:95.3
+
+epoch 113
+current temp: 1
+loss:0.01972215557773178 mse:0.0024350808234885335
+time for this dyn_adj epoch:95.32
+best epoch: 110
+time for this whole epoch:95.32
+
+epoch 114
+current temp: 1
+loss:0.019503760580875492 mse:0.002283614012412727
+time for this dyn_adj epoch:95.23
+best epoch: 110
+time for this whole epoch:95.23
+
+epoch 115
+current temp: 1
+loss:0.019598338877784026 mse:0.0024268024135380983
+time for this dyn_adj epoch:95.24
+best epoch: 110
+time for this whole epoch:95.24
+
+epoch 116
+current temp: 1
+loss:0.019025064964962417 mse:0.0022844368359073997
+time for this dyn_adj epoch:95.23
+best epoch: 110
+time for this whole epoch:95.23
+
+epoch 117
+current temp: 1
+loss:0.018714886225952312 mse:0.002218379988335073
+time for this dyn_adj epoch:95.25
+best epoch: 110
+time for this whole epoch:95.25
+
+epoch 118
+current temp: 1
+loss:0.019117033954508006 mse:0.0023807064862921834
+time for this dyn_adj epoch:95.3
+best epoch: 110
+time for this whole epoch:95.3
+
+epoch 119
+current temp: 1
+loss:0.019681954100558653 mse:0.0023479046067222953
+time for this dyn_adj epoch:95.25
+best epoch: 110
+time for this whole epoch:95.25
+
+epoch 120
+current temp: 1
+loss:0.01886469995872801 mse:0.002473607659339905
+time for this dyn_adj epoch:94.25
+best epoch: 110
+time for this whole epoch:94.25
+
+epoch 121
+current temp: 1
+loss:0.01840589960375206 mse:0.002222894225269556
+time for this dyn_adj epoch:95.29
+best epoch: 121
+best epoch: 121
+time for this whole epoch:96.38
+
+epoch 122
+current temp: 1
+loss:0.018966975388104206 mse:0.002316203317604959
+time for this dyn_adj epoch:95.2
+best epoch: 121
+time for this whole epoch:95.2
+
+epoch 123
+current temp: 1
+loss:0.01939934348012545 mse:0.002414831309579313
+time for this dyn_adj epoch:95.24
+best epoch: 121
+time for this whole epoch:95.24
+
+epoch 124
+current temp: 1
+loss:0.019385458283253325 mse:0.0023831973085179925
+time for this dyn_adj epoch:95.05
+best epoch: 121
+time for this whole epoch:95.05
+
+epoch 125
+current temp: 1
+loss:0.019195494896148003 mse:0.002340164268389344
+time for this dyn_adj epoch:95.33
+best epoch: 121
+time for this whole epoch:95.33
+
+epoch 126
+current temp: 1
+loss:0.01830753180906188 mse:0.002241482026875019
+time for this dyn_adj epoch:95.27
+best epoch: 126
+best epoch: 126
+time for this whole epoch:96.33
+
+epoch 127
+current temp: 1
+loss:0.019550406913721022 mse:0.0023273134138435125
+time for this dyn_adj epoch:95.26
+best epoch: 126
+time for this whole epoch:95.26
+
+epoch 128
+current temp: 1
+loss:0.0182302808066799 mse:0.0020578804542310536
+time for this dyn_adj epoch:95.18
+best epoch: 128
+best epoch: 128
+time for this whole epoch:96.33
+
+epoch 129
+current temp: 1
+loss:0.019010220593062628 mse:0.002187213860452175
+time for this dyn_adj epoch:95.08
+best epoch: 128
+time for this whole epoch:95.08
+
+epoch 130
+current temp: 1
+loss:0.0190085429873929 mse:0.0023031277814880013
+time for this dyn_adj epoch:95.25
+best epoch: 128
+time for this whole epoch:95.25
+
+epoch 131
+current temp: 1
+loss:0.018279709988314255 mse:0.002201580908149481
+time for this dyn_adj epoch:95.17
+best epoch: 128
+time for this whole epoch:95.17
+
+epoch 132
+current temp: 1
+loss:0.018045002824538033 mse:0.0023112617200240493
+time for this dyn_adj epoch:95.33
+best epoch: 132
+best epoch: 132
+time for this whole epoch:96.39
+
+epoch 133
+current temp: 1
+loss:0.018892812483697858 mse:0.0020953608327545226
+time for this dyn_adj epoch:95.12
+best epoch: 132
+time for this whole epoch:95.12
+
+epoch 134
+current temp: 1
+loss:0.017586500499183283 mse:0.0019567233393900096
+time for this dyn_adj epoch:95.24
+best epoch: 134
+best epoch: 134
+time for this whole epoch:96.35
+
+epoch 135
+current temp: 1
+loss:0.01915440898960898 mse:0.0021086587803438306
+time for this dyn_adj epoch:95.18
+best epoch: 134
+time for this whole epoch:95.18
+
+epoch 136
+current temp: 1
+loss:0.018713869853076447 mse:0.0023544050054624677
+time for this dyn_adj epoch:95.24
+best epoch: 134
+time for this whole epoch:95.24
+
+epoch 137
+current temp: 1
+loss:0.018903406629490048 mse:0.002387398504652083
+time for this dyn_adj epoch:95.32
+best epoch: 134
+time for this whole epoch:95.32
+
+epoch 138
+current temp: 1
+loss:0.01800545205865221 mse:0.0021517941495403647
+time for this dyn_adj epoch:95.37
+best epoch: 134
+time for this whole epoch:95.37
+
+epoch 139
+current temp: 1
+loss:0.019724315939666066 mse:0.002441451884806156
+time for this dyn_adj epoch:95.25
+best epoch: 134
+time for this whole epoch:95.25
+
+epoch 140
+current temp: 1
+loss:0.0189087360974452 mse:0.0022225158754736185
+time for this dyn_adj epoch:95.12
+best epoch: 134
+time for this whole epoch:95.12
+
+epoch 141
+current temp: 1
+loss:0.018334908751236317 mse:0.00216796703170985
+time for this dyn_adj epoch:95.27
+best epoch: 134
+time for this whole epoch:95.27
+
+epoch 142
+current temp: 1
+loss:0.018960735090607125 mse:0.002345010405406356
+time for this dyn_adj epoch:95.18
+best epoch: 134
+time for this whole epoch:95.18
+
+epoch 143
+current temp: 1
+loss:0.018052650392017963 mse:0.0023074838100001216
+time for this dyn_adj epoch:95.31
+best epoch: 134
+time for this whole epoch:95.31
+
+epoch 144
+current temp: 1
+loss:0.018065864014815313 mse:0.002150319516658783
+time for this dyn_adj epoch:95.0
+best epoch: 134
+time for this whole epoch:95.0
+
+epoch 145
+current temp: 1
+loss:0.018338072074376786 mse:0.0020059647504240274
+time for this dyn_adj epoch:94.91
+best epoch: 134
+time for this whole epoch:94.91
+
+epoch 146
+current temp: 1
+loss:0.018074315370584647 mse:0.002073656301945448
+time for this dyn_adj epoch:95.19
+best epoch: 134
+time for this whole epoch:95.19
+
+epoch 147
+current temp: 1
+loss:0.016999879637666904 mse:0.0020560836419463158
+time for this dyn_adj epoch:94.89
+best epoch: 147
+best epoch: 147
+time for this whole epoch:96.04
+
+epoch 148
+current temp: 1
+loss:0.017961658068456718 mse:0.0019445291836746037
+time for this dyn_adj epoch:95.19
+best epoch: 147
+time for this whole epoch:95.19
+
+epoch 149
+current temp: 1
+loss:0.01902178714312883 mse:0.0023797466419637203
+time for this dyn_adj epoch:95.22
+best epoch: 147
+time for this whole epoch:95.22
+
+epoch 150
+current temp: 1
+loss:0.018851826843907026 mse:0.002230391255579889
+time for this dyn_adj epoch:95.4
+best epoch: 147
+time for this whole epoch:95.4
+
+epoch 151
+current temp: 1
+loss:0.018241205902566133 mse:0.0022052264539524913
+time for this dyn_adj epoch:94.77
+best epoch: 147
+time for this whole epoch:94.77
+
+epoch 152
+current temp: 1
+loss:0.0179226361819524 mse:0.0021961863385513425
+time for this dyn_adj epoch:95.27
+best epoch: 147
+time for this whole epoch:95.28
+
+epoch 153
+current temp: 1
+loss:0.01865185598333291 mse:0.002274680300615728
+time for this dyn_adj epoch:95.19
+best epoch: 147
+time for this whole epoch:95.19
+
+epoch 154
+current temp: 1
+loss:0.0174698575834336 mse:0.0020090749603696167
+time for this dyn_adj epoch:95.29
+best epoch: 147
+time for this whole epoch:95.29
+
+epoch 155
+current temp: 1
+loss:0.017797345941980906 mse:0.0020771814743056893
+time for this dyn_adj epoch:95.33
+best epoch: 147
+time for this whole epoch:95.33
+
+epoch 156
+current temp: 1
+loss:0.017564843925434254 mse:0.002118812524713576
+time for this dyn_adj epoch:95.4
+best epoch: 147
+time for this whole epoch:95.4
+
+epoch 157
+current temp: 1
+loss:0.018056262043567646 mse:0.0021537935826927423
+time for this dyn_adj epoch:95.22
+best epoch: 147
+time for this whole epoch:95.22
+
+epoch 158
+current temp: 1
+loss:0.017227371724504517 mse:0.0019354200921952724
+time for this dyn_adj epoch:95.24
+best epoch: 147
+time for this whole epoch:95.24
+
+epoch 159
+current temp: 1
+loss:0.018106246732367326 mse:0.002147756516933441
+time for this dyn_adj epoch:95.28
+best epoch: 147
+time for this whole epoch:95.28
+
+epoch 160
+current temp: 1
+loss:0.01765034694581752 mse:0.001998469640966505
+time for this dyn_adj epoch:95.25
+best epoch: 147
+time for this whole epoch:95.25
+
+epoch 161
+current temp: 1
+loss:0.017451816744505667 mse:0.0020665626507252455
+time for this dyn_adj epoch:95.1
+best epoch: 147
+time for this whole epoch:95.1
+
+epoch 162
+current temp: 1
+loss:0.017858810807045288 mse:0.002033738070167601
+time for this dyn_adj epoch:95.53
+best epoch: 147
+time for this whole epoch:95.53
+
+epoch 163
+current temp: 1
+loss:0.017069505287032927 mse:0.002025343244895339
+time for this dyn_adj epoch:95.29
+best epoch: 147
+time for this whole epoch:95.29
+
+epoch 164
+current temp: 1
+loss:0.017542376028058436 mse:0.0020572913344949484
+time for this dyn_adj epoch:95.33
+best epoch: 147
+time for this whole epoch:95.33
+
+epoch 165
+current temp: 1
+loss:0.017178408690652333 mse:0.0020272117108106613
+time for this dyn_adj epoch:95.29
+best epoch: 147
+time for this whole epoch:95.29
+
+epoch 166
+current temp: 1
+loss:0.01714210052476367 mse:0.001964191033039242
+time for this dyn_adj epoch:95.21
+best epoch: 147
+time for this whole epoch:95.21
+
+epoch 167
+current temp: 1
+loss:0.017532126959435 mse:0.002051406423561275
+time for this dyn_adj epoch:95.23
+best epoch: 147
+time for this whole epoch:95.23
+
+epoch 168
+current temp: 1
+loss:0.018014181903299675 mse:0.002146734739653766
+time for this dyn_adj epoch:95.21
+best epoch: 147
+time for this whole epoch:95.21
+
+epoch 169
+current temp: 1
+loss:0.017495478337093362 mse:0.0019696460803970695
+time for this dyn_adj epoch:95.15
+best epoch: 147
+time for this whole epoch:95.15
+
+epoch 170
+current temp: 1
+loss:0.017276071287598952 mse:0.0018772619077935815
+time for this dyn_adj epoch:95.31
+best epoch: 147
+time for this whole epoch:95.31
+
+epoch 171
+current temp: 1
+loss:0.01746350034731852 mse:0.0021159665193408728
+time for this dyn_adj epoch:95.25
+best epoch: 147
+time for this whole epoch:95.25
+
+epoch 172
+current temp: 1
+loss:0.01783123204345211 mse:0.0021659124176949263
+time for this dyn_adj epoch:95.29
+best epoch: 147
+time for this whole epoch:95.29
+
+epoch 173
+current temp: 1
+loss:0.0169862897053202 mse:0.0020000680815428495
+time for this dyn_adj epoch:95.29
+best epoch: 173
+best epoch: 173
+time for this whole epoch:96.35
+
+epoch 174
+current temp: 1
+loss:0.01657977278999779 mse:0.001844921032898128
+time for this dyn_adj epoch:95.25
+best epoch: 174
+best epoch: 174
+time for this whole epoch:96.31
+
+epoch 175
+current temp: 1
+loss:0.017273194492239328 mse:0.0018772477051243186
+time for this dyn_adj epoch:95.25
+best epoch: 174
+time for this whole epoch:95.25
+
+epoch 176
+current temp: 1
+loss:0.018069450716767674 mse:0.002223300514742732
+time for this dyn_adj epoch:94.61
+best epoch: 174
+time for this whole epoch:94.61
+
+epoch 177
+current temp: 1
+loss:0.017234457756987422 mse:0.002030022908002138
+time for this dyn_adj epoch:95.05
+best epoch: 174
+time for this whole epoch:95.05
+
+epoch 178
+current temp: 1
+loss:0.017496607644877545 mse:0.0020298768067732453
+time for this dyn_adj epoch:95.2
+best epoch: 174
+time for this whole epoch:95.2
+
+epoch 179
+current temp: 1
+loss:0.01760289536762147 mse:0.00221313041402027
+time for this dyn_adj epoch:95.26
+best epoch: 174
+time for this whole epoch:95.26
+
+epoch 180
+current temp: 1
+loss:0.01681451516913749 mse:0.001967288670130074
+time for this dyn_adj epoch:94.78
+best epoch: 174
+time for this whole epoch:94.78
+
+epoch 181
+current temp: 1
+loss:0.017828969597738796 mse:0.002107416628859937
+time for this dyn_adj epoch:95.22
+best epoch: 174
+time for this whole epoch:95.22
+
+epoch 182
+current temp: 1
+loss:0.017492978364982717 mse:0.002294620091561228
+time for this dyn_adj epoch:95.31
+best epoch: 174
+time for this whole epoch:95.31
+
+epoch 183
+current temp: 1
+loss:0.01705056059199455 mse:0.002092879731208086
+time for this dyn_adj epoch:95.2
+best epoch: 174
+time for this whole epoch:95.2
+
+epoch 184
+current temp: 1
+loss:0.017069588450161866 mse:0.0020735984435305
+time for this dyn_adj epoch:94.91
+best epoch: 174
+time for this whole epoch:94.91
+
+epoch 185
+current temp: 1
+loss:0.01685385229142355 mse:0.0018464598688296974
+time for this dyn_adj epoch:95.09
+best epoch: 174
+time for this whole epoch:95.09
+
+epoch 186
+current temp: 1
+loss:0.01709133643912355 mse:0.002107263368088752
+time for this dyn_adj epoch:95.05
+best epoch: 174
+time for this whole epoch:95.05
+
+epoch 187
+current temp: 1
+loss:0.01684512305068947 mse:0.001893134496640414
+time for this dyn_adj epoch:95.28
+best epoch: 174
+time for this whole epoch:95.28
+
+epoch 188
+current temp: 1
+loss:0.016693612039777157 mse:0.0019425381324253976
+time for this dyn_adj epoch:95.31
+best epoch: 174
+time for this whole epoch:95.31
+
+epoch 189
+current temp: 1
+loss:0.017314003138063132 mse:0.0019838750595226884
+time for this dyn_adj epoch:95.4
+best epoch: 174
+time for this whole epoch:95.4
+
+epoch 190
+current temp: 1
+loss:0.01714797824741602 mse:0.0018637528410181403
+time for this dyn_adj epoch:95.32
+best epoch: 174
+time for this whole epoch:95.32
+
+epoch 191
+current temp: 1
+loss:0.017620312978722776 mse:0.0018871345673687756
+time for this dyn_adj epoch:95.19
+best epoch: 174
+time for this whole epoch:95.19
+
+epoch 192
+current temp: 1
+loss:0.01696773002587537 mse:0.002083656087052077
+time for this dyn_adj epoch:95.09
+best epoch: 174
+time for this whole epoch:95.09
+
+epoch 193
+current temp: 1
+loss:0.017211093287099532 mse:0.002050636219792068
+time for this dyn_adj epoch:94.71
+best epoch: 174
+time for this whole epoch:94.71
+
+epoch 194
+current temp: 1
+loss:0.017391613252361375 mse:0.0018837678362615407
+time for this dyn_adj epoch:95.3
+best epoch: 174
+time for this whole epoch:95.3
+
+epoch 195
+current temp: 1
+loss:0.01651800368658031 mse:0.001929389894939959
+time for this dyn_adj epoch:95.3
+best epoch: 195
+best epoch: 195
+time for this whole epoch:96.39
+
+epoch 196
+current temp: 1
+loss:0.016911455938241882 mse:0.001864955062046647
+time for this dyn_adj epoch:95.15
+best epoch: 195
+time for this whole epoch:95.15
+
+epoch 197
+current temp: 1
+loss:0.01677199074955852 mse:0.002016722224652767
+time for this dyn_adj epoch:95.28
+best epoch: 195
+time for this whole epoch:95.28
+
+epoch 198
+current temp: 1
+loss:0.01674084661913878 mse:0.0019061177736148238
+time for this dyn_adj epoch:94.71
+best epoch: 195
+time for this whole epoch:94.71
+
+epoch 199
+current temp: 1
+loss:0.01735627393629462 mse:0.0020417713094502687
+time for this dyn_adj epoch:95.14
+best epoch: 195
+time for this whole epoch:95.14
+
+epoch 200
+current temp: 1
+loss:0.01685389778245002 mse:0.0019467957899905741
+time for this dyn_adj epoch:95.07
+best epoch: 195
+time for this whole epoch:95.07
+
+epoch 201
+current temp: 1
+loss:0.017231123829480593 mse:0.001928647921886295
+time for this dyn_adj epoch:95.41
+best epoch: 195
+time for this whole epoch:95.41
+
+epoch 202
+current temp: 1
+loss:0.015580794173617043 mse:0.002015639911405742
+time for this dyn_adj epoch:94.79
+best epoch: 202
+best epoch: 202
+time for this whole epoch:95.84
+
+epoch 203
+current temp: 1
+loss:0.016552181144222675 mse:0.0020475180353969336
+time for this dyn_adj epoch:95.14
+best epoch: 202
+time for this whole epoch:95.14
+
+epoch 204
+current temp: 1
+loss:0.016947673624147598 mse:0.0019637364894151688
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 205
+current temp: 1
+loss:0.0171129274992727 mse:0.0020011173910461366
+time for this dyn_adj epoch:95.12
+best epoch: 202
+time for this whole epoch:95.12
+
+epoch 206
+current temp: 1
+loss:0.017533868347062564 mse:0.002014297991991043
+time for this dyn_adj epoch:95.36
+best epoch: 202
+time for this whole epoch:95.36
+
+epoch 207
+current temp: 1
+loss:0.01667697780511978 mse:0.0019456635927781463
+time for this dyn_adj epoch:95.28
+best epoch: 202
+time for this whole epoch:95.28
+
+epoch 208
+current temp: 1
+loss:0.01605238522261178 mse:0.00183263752842322
+time for this dyn_adj epoch:95.34
+best epoch: 202
+time for this whole epoch:95.34
+
+epoch 209
+current temp: 1
+loss:0.017046874129828884 mse:0.0018580695614218712
+time for this dyn_adj epoch:95.17
+best epoch: 202
+time for this whole epoch:95.17
+
+epoch 210
+current temp: 1
+loss:0.016702729568431135 mse:0.0017535161459818482
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 211
+current temp: 1
+loss:0.01678716347337262 mse:0.0019233017810620368
+time for this dyn_adj epoch:95.21
+best epoch: 202
+time for this whole epoch:95.21
+
+epoch 212
+current temp: 1
+loss:0.0168642067012768 mse:0.002007786650210619
+time for this dyn_adj epoch:95.26
+best epoch: 202
+time for this whole epoch:95.26
+
+epoch 213
+current temp: 1
+loss:0.01659682826525364 mse:0.0019347177585586905
+time for this dyn_adj epoch:95.4
+best epoch: 202
+time for this whole epoch:95.4
+
+epoch 214
+current temp: 1
+loss:0.01686490891489901 mse:0.0019115899922326207
+time for this dyn_adj epoch:95.31
+best epoch: 202
+time for this whole epoch:95.31
+
+epoch 215
+current temp: 1
+loss:0.016175262607951067 mse:0.001922208582982421
+time for this dyn_adj epoch:95.25
+best epoch: 202
+time for this whole epoch:95.25
+
+epoch 216
+current temp: 1
+loss:0.01626681803254967 mse:0.0018197119934484363
+time for this dyn_adj epoch:95.02
+best epoch: 202
+time for this whole epoch:95.02
+
+epoch 217
+current temp: 1
+loss:0.017018528325675727 mse:0.0021071380469948053
+time for this dyn_adj epoch:95.33
+best epoch: 202
+time for this whole epoch:95.33
+
+epoch 218
+current temp: 1
+loss:0.017044769690833364 mse:0.0019606753485277295
+time for this dyn_adj epoch:95.0
+best epoch: 202
+time for this whole epoch:95.0
+
+epoch 219
+current temp: 1
+loss:0.016406165655252207 mse:0.0017844818066805601
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 220
+current temp: 1
+loss:0.01656523818265546 mse:0.0019182699033990502
+time for this dyn_adj epoch:94.92
+best epoch: 202
+time for this whole epoch:94.92
+
+epoch 221
+current temp: 1
+loss:0.016199906648801 mse:0.0019302203436382115
+time for this dyn_adj epoch:94.95
+best epoch: 202
+time for this whole epoch:94.95
+
+epoch 222
+current temp: 1
+loss:0.016734943852482392 mse:0.0018149199313484132
+time for this dyn_adj epoch:95.07
+best epoch: 202
+time for this whole epoch:95.07
+
+epoch 223
+current temp: 1
+loss:0.015983200187506087 mse:0.0019053063006140292
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 224
+current temp: 1
+loss:0.016277949455780004 mse:0.0018201132770627737
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 225
+current temp: 1
+loss:0.01595402171964442 mse:0.0018547808867879212
+time for this dyn_adj epoch:95.15
+best epoch: 202
+time for this whole epoch:95.15
+
+epoch 226
+current temp: 1
+loss:0.016607842601060296 mse:0.0018578286399133503
+time for this dyn_adj epoch:95.29
+best epoch: 202
+time for this whole epoch:95.29
+
+epoch 227
+current temp: 1
+loss:0.016440687940879016 mse:0.001957475091330707
+time for this dyn_adj epoch:95.28
+best epoch: 202
+time for this whole epoch:95.28
+
+epoch 228
+current temp: 1
+loss:0.016380862565755626 mse:0.0017468176083639264
+time for this dyn_adj epoch:95.22
+best epoch: 202
+time for this whole epoch:95.22
+
+epoch 229
+current temp: 1
+loss:0.016933739814599037 mse:0.0018793274648487568
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 230
+current temp: 1
+loss:0.01634922076799912 mse:0.0018631433486007154
+time for this dyn_adj epoch:95.25
+best epoch: 202
+time for this whole epoch:95.25
+
+epoch 231
+current temp: 1
+loss:0.016293069740349535 mse:0.0019919968908652663
+time for this dyn_adj epoch:95.21
+best epoch: 202
+time for this whole epoch:95.21
+
+epoch 232
+current temp: 1
+loss:0.01648847477179641 mse:0.0018477648263797164
+time for this dyn_adj epoch:95.04
+best epoch: 202
+time for this whole epoch:95.04
+
+epoch 233
+current temp: 1
+loss:0.01622534509249498 mse:0.0018290932639501989
+time for this dyn_adj epoch:95.28
+best epoch: 202
+time for this whole epoch:95.28
+
+epoch 234
+current temp: 1
+loss:0.016529377795350172 mse:0.0018375327927060425
+time for this dyn_adj epoch:95.26
+best epoch: 202
+time for this whole epoch:95.26
+
+epoch 235
+current temp: 1
+loss:0.016505008967308388 mse:0.0018824769067578018
+time for this dyn_adj epoch:95.3
+best epoch: 202
+time for this whole epoch:95.3
+
+epoch 236
+current temp: 1
+loss:0.01585589037248955 mse:0.0019986886181868613
+time for this dyn_adj epoch:95.25
+best epoch: 202
+time for this whole epoch:95.25
+
+epoch 237
+current temp: 1
+loss:0.01679806387251774 mse:0.0020439218496903777
+time for this dyn_adj epoch:95.28
+best epoch: 202
+time for this whole epoch:95.28
+
+epoch 238
+current temp: 1
+loss:0.01611209190102804 mse:0.0019330806680954993
+time for this dyn_adj epoch:95.11
+best epoch: 202
+time for this whole epoch:95.11
+
+epoch 239
+current temp: 1
+loss:0.016306984254958263 mse:0.0019487009849399328
+time for this dyn_adj epoch:95.25
+best epoch: 202
+time for this whole epoch:95.25
+
+epoch 240
+current temp: 1
+loss:0.01608555792587252 mse:0.0018085261108353734
+time for this dyn_adj epoch:95.22
+best epoch: 202
+time for this whole epoch:95.22
+
+epoch 241
+current temp: 1
+loss:0.01650953456483211 mse:0.0019472179119475186
+time for this dyn_adj epoch:94.52
+best epoch: 202
+time for this whole epoch:94.52
+
+epoch 242
+current temp: 1
+loss:0.016380698360559234 mse:0.0019441621261648834
+time for this dyn_adj epoch:95.28
+best epoch: 202
+time for this whole epoch:95.28
+
+epoch 243
+current temp: 1
+loss:0.015704844535453243 mse:0.0017966320156119764
+time for this dyn_adj epoch:95.18
+best epoch: 202
+time for this whole epoch:95.18
+
+epoch 244
+current temp: 1
+loss:0.016318744775409115 mse:0.0019233671482652426
+time for this dyn_adj epoch:94.89
+best epoch: 202
+time for this whole epoch:94.89
+
+epoch 245
+current temp: 1
+loss:0.015974834629934598 mse:0.001959356653969735
+time for this dyn_adj epoch:94.53
+best epoch: 202
+time for this whole epoch:94.53
+
+epoch 246
+current temp: 1
+loss:0.015897284513375524 mse:0.0019555120379664004
+time for this dyn_adj epoch:95.2
+best epoch: 202
+time for this whole epoch:95.2
+
+epoch 247
+current temp: 1
+loss:0.016070144438660176 mse:0.0017858772771432996
+time for this dyn_adj epoch:95.25
+best epoch: 202
+time for this whole epoch:95.25
+
+epoch 248
+current temp: 1
+loss:0.016303541783765935 mse:0.0018647720571607351
+time for this dyn_adj epoch:95.34
+best epoch: 202
+time for this whole epoch:95.34
+
+epoch 249
+current temp: 1
+loss:0.016212759491775294 mse:0.001756827114149928
+time for this dyn_adj epoch:95.29
+best epoch: 202
+time for this whole epoch:95.29
+
+epoch 250
+current temp: 1
+loss:0.01632774702855973 mse:0.0020149442716501653
+time for this dyn_adj epoch:95.19
+best epoch: 202
+time for this whole epoch:95.19
+
+epoch 251
+current temp: 1
+loss:0.01611765655960405 mse:0.0018959508161060512
+time for this dyn_adj epoch:95.32
+best epoch: 202
+time for this whole epoch:95.32
+
+epoch 252
+current temp: 1
+loss:0.016228506164800392 mse:0.0018375152139924467
+time for this dyn_adj epoch:95.27
+best epoch: 202
+time for this whole epoch:95.27
+
+epoch 253
+current temp: 1
+loss:0.015757841925969716 mse:0.0016683407593518496
+time for this dyn_adj epoch:95.3
+best epoch: 202
+time for this whole epoch:95.3
+
+epoch 254
+current temp: 1
+loss:0.016594935349879665 mse:0.0019356247503310442
+time for this dyn_adj epoch:94.92
+best epoch: 202
+time for this whole epoch:94.92
+
+epoch 255
+current temp: 1
+loss:0.015662358422572152 mse:0.0016342432936653495
+time for this dyn_adj epoch:94.63
+best epoch: 202
+time for this whole epoch:94.63
+
+epoch 256
+current temp: 1
+loss:0.015664253375010727 mse:0.0019113620510324836
+time for this dyn_adj epoch:95.3
+best epoch: 202
+time for this whole epoch:95.3
+
+epoch 257
+current temp: 1
+loss:0.015115394066628516 mse:0.0016602309187874198
+time for this dyn_adj epoch:95.16
+best epoch: 257
+best epoch: 257
+time for this whole epoch:96.22
+
+epoch 258
+current temp: 1
+loss:0.015761501384771955 mse:0.001793731760699302
+time for this dyn_adj epoch:95.32
+best epoch: 257
+time for this whole epoch:95.32
+
+epoch 259
+current temp: 1
+loss:0.015783467295816412 mse:0.001743554079439491
+time for this dyn_adj epoch:95.2
+best epoch: 257
+time for this whole epoch:95.2
+
+epoch 260
+current temp: 1
+loss:0.016276238164468784 mse:0.001807811961043626
+time for this dyn_adj epoch:95.29
+best epoch: 257
+time for this whole epoch:95.29
+
+epoch 261
+current temp: 1
+loss:0.016204591026951883 mse:0.0018412109347991645
+time for this dyn_adj epoch:95.28
+best epoch: 257
+time for this whole epoch:95.28
+
+epoch 262
+current temp: 1
+loss:0.015226232804814022 mse:0.0017227153293788433
+time for this dyn_adj epoch:94.36
+best epoch: 257
+time for this whole epoch:94.36
+
+epoch 263
+current temp: 1
+loss:0.016015963270273062 mse:0.0018381986301392317
+time for this dyn_adj epoch:95.29
+best epoch: 257
+time for this whole epoch:95.29
+
+epoch 264
+current temp: 1
+loss:0.015965327150173795 mse:0.0018266106490045786
+time for this dyn_adj epoch:95.28
+best epoch: 257
+time for this whole epoch:95.28
+
+epoch 265
+current temp: 1
+loss:0.016397196654161575 mse:0.001879837189335376
+time for this dyn_adj epoch:95.21
+best epoch: 257
+time for this whole epoch:95.21
+
+epoch 266
+current temp: 1
+loss:0.015398515607849456 mse:0.0016893172287382185
+time for this dyn_adj epoch:95.36
+best epoch: 257
+time for this whole epoch:95.36
+
+epoch 267
+current temp: 1
+loss:0.01564816496495633 mse:0.001701712899375707
+time for this dyn_adj epoch:95.24
+best epoch: 257
+time for this whole epoch:95.24
+
+epoch 268
+current temp: 1
+loss:0.015917978861128924 mse:0.0017824942478910089
+time for this dyn_adj epoch:95.32
+best epoch: 257
+time for this whole epoch:95.32
+
+epoch 269
+current temp: 1
+loss:0.015716709005052586 mse:0.001661981747020036
+time for this dyn_adj epoch:95.37
+best epoch: 257
+time for this whole epoch:95.37
+
+epoch 270
+current temp: 1
+loss:0.015413988119258216 mse:0.0017300911713391542
+time for this dyn_adj epoch:95.33
+best epoch: 257
+time for this whole epoch:95.33
+
+epoch 271
+current temp: 1
+loss:0.015835932430380978 mse:0.0016998915816657245
+time for this dyn_adj epoch:95.17
+best epoch: 257
+time for this whole epoch:95.17
+
+epoch 272
+current temp: 1
+loss:0.01596169671936861 mse:0.0018539789016358554
+time for this dyn_adj epoch:95.17
+best epoch: 257
+time for this whole epoch:95.17
+
+epoch 273
+current temp: 1
+loss:0.01721589774612117 mse:0.001956189109478146
+time for this dyn_adj epoch:94.98
+best epoch: 257
+time for this whole epoch:94.98
+
+epoch 274
+current temp: 1
+loss:0.015860920869014625 mse:0.001829610497225076
+time for this dyn_adj epoch:95.33
+best epoch: 257
+time for this whole epoch:95.33
+
+epoch 275
+current temp: 1
+loss:0.016152189930616068 mse:0.001847927807830274
+time for this dyn_adj epoch:94.51
+best epoch: 257
+time for this whole epoch:94.51
+
+epoch 276
+current temp: 1
+loss:0.016486407972066176 mse:0.001926348137203604
+time for this dyn_adj epoch:94.98
+best epoch: 257
+time for this whole epoch:94.98
+
+epoch 277
+current temp: 1
+loss:0.01529270386666306 mse:0.0015992175904102623
+time for this dyn_adj epoch:95.32
+best epoch: 257
+time for this whole epoch:95.32
+
+epoch 278
+current temp: 1
+loss:0.015433839858379768 mse:0.0017190721700899303
+time for this dyn_adj epoch:95.26
+best epoch: 257
+time for this whole epoch:95.26
+
+epoch 279
+current temp: 1
+loss:0.015206143656278238 mse:0.0016900668269954622
+time for this dyn_adj epoch:95.34
+best epoch: 257
+time for this whole epoch:95.34
+
+epoch 280
+current temp: 1
+loss:0.014748794652476374 mse:0.0016695992671884596
+time for this dyn_adj epoch:95.22
+best epoch: 280
+best epoch: 280
+time for this whole epoch:96.35
+
+epoch 281
+current temp: 1
+loss:0.015501443461061734 mse:0.001689073455054313
+time for this dyn_adj epoch:95.23
+best epoch: 280
+time for this whole epoch:95.23
+
+epoch 282
+current temp: 1
+loss:0.01528071388194572 mse:0.001796712342184037
+time for this dyn_adj epoch:95.25
+best epoch: 280
+time for this whole epoch:95.25
+
+epoch 283
+current temp: 1
+loss:0.015177766193360791 mse:0.0016261997516267002
+time for this dyn_adj epoch:95.48
+best epoch: 280
+time for this whole epoch:95.48
+
+epoch 284
+current temp: 1
+loss:0.015392343583784593 mse:0.0017349589033983648
+time for this dyn_adj epoch:95.28
+best epoch: 280
+time for this whole epoch:95.28
+
+epoch 285
+current temp: 1
+loss:0.015506667957659745 mse:0.0017580949352122843
+time for this dyn_adj epoch:95.23
+best epoch: 280
+time for this whole epoch:95.23
+
+epoch 286
+current temp: 1
+loss:0.015499467876153916 mse:0.0017186019686050713
+time for this dyn_adj epoch:95.24
+best epoch: 280
+time for this whole epoch:95.24
+
+epoch 287
+current temp: 1
+loss:0.01613972674937538 mse:0.0018515181727707386
+time for this dyn_adj epoch:95.15
+best epoch: 280
+time for this whole epoch:95.15
+
+epoch 288
+current temp: 1
+loss:0.01603165648109727 mse:0.0018055406981147826
+time for this dyn_adj epoch:95.18
+best epoch: 280
+time for this whole epoch:95.18
+
+epoch 289
+current temp: 1
+loss:0.016176024271569476 mse:0.0019255938823334873
+time for this dyn_adj epoch:95.23
+best epoch: 280
+time for this whole epoch:95.23
+
+epoch 290
+current temp: 1
+loss:0.015117630168021732 mse:0.0016475091688334942
+time for this dyn_adj epoch:95.17
+best epoch: 280
+time for this whole epoch:95.17
+
+epoch 291
+current temp: 1
+loss:0.015299261242995778 mse:0.0017218196298927069
+time for this dyn_adj epoch:95.3
+best epoch: 280
+time for this whole epoch:95.3
+
+epoch 292
+current temp: 1
+loss:0.015656052461651863 mse:0.001788768800906837
+time for this dyn_adj epoch:95.38
+best epoch: 280
+time for this whole epoch:95.38
+
+epoch 293
+current temp: 1
+loss:0.015600768315908835 mse:0.0017383560189045966
+time for this dyn_adj epoch:95.23
+best epoch: 280
+time for this whole epoch:95.23
+
+epoch 294
+current temp: 1
+loss:0.015694825999849053 mse:0.0018812355119735003
+time for this dyn_adj epoch:95.16
+best epoch: 280
+time for this whole epoch:95.16
+
+epoch 295
+current temp: 1
+loss:0.014532170935724845 mse:0.0016283027944155037
+time for this dyn_adj epoch:95.53
+best epoch: 295
+best epoch: 295
+time for this whole epoch:96.58
+
+epoch 296
+current temp: 1
+loss:0.015308670973942937 mse:0.001776043209247291
+time for this dyn_adj epoch:95.08
+best epoch: 295
+time for this whole epoch:95.08
+
+epoch 297
+current temp: 1
+loss:0.015665180114649603 mse:0.0017046881839632988
+time for this dyn_adj epoch:95.29
+best epoch: 295
+time for this whole epoch:95.29
+
+epoch 298
+current temp: 1
+loss:0.016208796154617754 mse:0.001889078936073929
+time for this dyn_adj epoch:95.22
+best epoch: 295
+time for this whole epoch:95.22
+
+epoch 299
+current temp: 1
+loss:0.015674318025146024 mse:0.001833202550187707
+time for this dyn_adj epoch:95.36
+best epoch: 295
+time for this whole epoch:95.36
+
+epoch 300
+current temp: 1
+loss:0.0162258538395648 mse:0.001905384473502636
+time for this dyn_adj epoch:95.29
+best epoch: 295
+time for this whole epoch:95.29
+
+epoch 301
+current temp: 1
+loss:0.01521548742801371 mse:0.0016825427883304656
+time for this dyn_adj epoch:95.14
+best epoch: 295
+time for this whole epoch:95.14
+
+epoch 302
+current temp: 1
+loss:0.016181030004090314 mse:0.0018430488999001682
+time for this dyn_adj epoch:95.11
+best epoch: 295
+time for this whole epoch:95.11
+
+epoch 303
+current temp: 1
+loss:0.01563950903772765 mse:0.0019286489114165306
+time for this dyn_adj epoch:95.35
+best epoch: 295
+time for this whole epoch:95.35
+
+epoch 304
+current temp: 1
+loss:0.01590152197313594 mse:0.0018594094435684383
+time for this dyn_adj epoch:95.32
+best epoch: 295
+time for this whole epoch:95.32
+
+epoch 305
+current temp: 1
+loss:0.016020631190931858 mse:0.0017230930388905108
+time for this dyn_adj epoch:95.09
+best epoch: 295
+time for this whole epoch:95.09
+
+epoch 306
+current temp: 1
+loss:0.01563274127469153 mse:0.001705456234049052
+time for this dyn_adj epoch:95.4
+best epoch: 295
+time for this whole epoch:95.4
+
+epoch 307
+current temp: 1
+loss:0.015811482830445044 mse:0.0017381423967890441
+time for this dyn_adj epoch:95.24
+best epoch: 295
+time for this whole epoch:95.24
+
+epoch 308
+current temp: 1
+loss:0.015370917856673941 mse:0.0016903872601687908
+time for this dyn_adj epoch:95.36
+best epoch: 295
+time for this whole epoch:95.36
+
+epoch 309
+current temp: 1
+loss:0.01570383349248437 mse:0.0018918245914392173
+time for this dyn_adj epoch:95.32
+best epoch: 295
+time for this whole epoch:95.32
+
+epoch 310
+current temp: 1
+loss:0.015746283001713237 mse:0.0017809103592298925
+time for this dyn_adj epoch:95.03
+best epoch: 295
+time for this whole epoch:95.03
+
+epoch 311
+current temp: 1
+loss:0.015382428174521741 mse:0.0017313798889517784
+time for this dyn_adj epoch:95.32
+best epoch: 295
+time for this whole epoch:95.32
+
+epoch 312
+current temp: 1
+loss:0.014716051646156254 mse:0.0015635391464456916
+time for this dyn_adj epoch:95.02
+best epoch: 295
+time for this whole epoch:95.02
+
+epoch 313
+current temp: 1
+loss:0.015254270557063035 mse:0.0017719652969390154
+time for this dyn_adj epoch:95.35
+best epoch: 295
+time for this whole epoch:95.35
+
+epoch 314
+current temp: 1
+loss:0.015511930792103671 mse:0.0018403831636533141
+time for this dyn_adj epoch:95.3
+best epoch: 295
+time for this whole epoch:95.3
+
+epoch 315
+current temp: 1
+loss:0.01558218255975612 mse:0.001987984520383179
+time for this dyn_adj epoch:95.44
+best epoch: 295
+time for this whole epoch:95.44
+
+epoch 316
+current temp: 1
+loss:0.015437077168841379 mse:0.001838031632360071
+time for this dyn_adj epoch:95.46
+best epoch: 295
+time for this whole epoch:95.46
+
+epoch 317
+current temp: 1
+loss:0.015389762826692091 mse:0.0017370330751873553
+time for this dyn_adj epoch:95.42
+best epoch: 295
+time for this whole epoch:95.42
+
+epoch 318
+current temp: 1
+loss:0.015500123962538227 mse:0.0017049728776328266
+time for this dyn_adj epoch:95.31
+best epoch: 295
+time for this whole epoch:95.31
+
+epoch 319
+current temp: 1
+loss:0.015286095431961761 mse:0.001925766235217452
+time for this dyn_adj epoch:95.27
+best epoch: 295
+time for this whole epoch:95.27
+
+epoch 320
+current temp: 1
+loss:0.01567311275526439 mse:0.0020105300936847925
+time for this dyn_adj epoch:95.32
+best epoch: 295
+time for this whole epoch:95.32
+
+epoch 321
+current temp: 1
+loss:0.015723830255632735 mse:0.002013812365476042
+time for this dyn_adj epoch:94.73
+best epoch: 295
+time for this whole epoch:94.74
+
+epoch 322
+current temp: 1
+loss:0.015581575148784192 mse:0.0017469828599132597
+time for this dyn_adj epoch:95.23
+best epoch: 295
+time for this whole epoch:95.23
+
+epoch 323
+current temp: 1
+loss:0.01580002692607426 mse:0.0019344081520102918
+time for this dyn_adj epoch:95.3
+best epoch: 295
+time for this whole epoch:95.3
+
+epoch 324
+current temp: 1
+loss:0.015314765712096464 mse:0.0016893234569579363
+time for this dyn_adj epoch:95.33
+best epoch: 295
+time for this whole epoch:95.33
+
+epoch 325
+current temp: 1
+loss:0.014923338066107272 mse:0.0015787536976858974
+time for this dyn_adj epoch:95.33
+best epoch: 295
+time for this whole epoch:95.33
+
+epoch 326
+current temp: 1
+loss:0.015316227497514278 mse:0.0018540932796895504
+time for this dyn_adj epoch:95.31
+best epoch: 295
+time for this whole epoch:95.31
+
+epoch 327
+current temp: 1
+loss:0.015288756873044675 mse:0.001727316644974053
+time for this dyn_adj epoch:95.22
+best epoch: 295
+time for this whole epoch:95.22
+
+epoch 328
+current temp: 1
+loss:0.015144096195638314 mse:0.0017253647092729807
+time for this dyn_adj epoch:95.26
+best epoch: 295
+time for this whole epoch:95.26
+
+epoch 329
+current temp: 1
+loss:0.014986967199548899 mse:0.001820037083234638
+time for this dyn_adj epoch:95.59
+best epoch: 295
+time for this whole epoch:95.59
+
+epoch 330
+current temp: 1
+loss:0.01582534317172395 mse:0.0017987231840379536
+time for this dyn_adj epoch:95.28
+best epoch: 295
+time for this whole epoch:95.28
+
+epoch 331
+current temp: 1
+loss:0.015077820972821572 mse:0.0018165516084991395
+time for this dyn_adj epoch:95.35
+best epoch: 295
+time for this whole epoch:95.35
+
+epoch 332
+current temp: 1
+loss:0.01546316905313758 mse:0.0018099045264534652
+time for this dyn_adj epoch:95.4
+best epoch: 295
+time for this whole epoch:95.4
+
+epoch 333
+current temp: 1
+loss:0.01562809739781184 mse:0.0018632058054208755
+time for this dyn_adj epoch:95.14
+best epoch: 295
+time for this whole epoch:95.14
+
+epoch 334
+current temp: 1
+loss:0.014784146406958389 mse:0.0016724237939342856
+time for this dyn_adj epoch:95.35
+best epoch: 295
+time for this whole epoch:95.35
+
+epoch 335
+current temp: 1
+loss:0.01523412507342556 mse:0.0018614335567690432
+time for this dyn_adj epoch:95.23
+best epoch: 295
+time for this whole epoch:95.23
+
+epoch 336
+current temp: 1
+loss:0.015078025450328526 mse:0.0019075207528658211
+time for this dyn_adj epoch:94.89
+best epoch: 295
+time for this whole epoch:94.89
+
+epoch 337
+current temp: 1
+loss:0.01427614982337508 mse:0.0015752059989608824
+time for this dyn_adj epoch:95.27
+best epoch: 337
+best epoch: 337
+time for this whole epoch:96.32
+
+epoch 338
+current temp: 1
+loss:0.015288006130888335 mse:0.0016703203436918557
+time for this dyn_adj epoch:95.0
+best epoch: 337
+time for this whole epoch:95.0
+
+epoch 339
+current temp: 1
+loss:0.015166184704920576 mse:0.0016713805962353945
+time for this dyn_adj epoch:95.22
+best epoch: 337
+time for this whole epoch:95.22
+
+epoch 340
+current temp: 1
+loss:0.015482130506018727 mse:0.0016971640288829803
+time for this dyn_adj epoch:95.21
+best epoch: 337
+time for this whole epoch:95.21
+
+epoch 341
+current temp: 1
+loss:0.015180893491098593 mse:0.0017805197858251631
+time for this dyn_adj epoch:95.3
+best epoch: 337
+time for this whole epoch:95.3
+
+epoch 342
+current temp: 1
+loss:0.015071867136476718 mse:0.0018586955266073346
+time for this dyn_adj epoch:95.28
+best epoch: 337
+time for this whole epoch:95.28
+
+epoch 343
+current temp: 1
+loss:0.015038112844173852 mse:0.001649022859055549
+time for this dyn_adj epoch:95.5
+best epoch: 337
+time for this whole epoch:95.5
+
+epoch 344
+current temp: 1
+loss:0.015468858128192573 mse:0.0020230993977747858
+time for this dyn_adj epoch:94.52
+best epoch: 337
+time for this whole epoch:94.52
+
+epoch 345
+current temp: 1
+loss:0.01482448918127148 mse:0.0016534258029423654
+time for this dyn_adj epoch:95.3
+best epoch: 337
+time for this whole epoch:95.3
+
+epoch 346
+current temp: 1
+loss:0.01465499173670251 mse:0.001732595672365278
+time for this dyn_adj epoch:95.22
+best epoch: 337
+time for this whole epoch:95.22
+
+epoch 347
+current temp: 1
+loss:0.015446166221274633 mse:0.0017741654883138835
+time for this dyn_adj epoch:95.19
+best epoch: 337
+time for this whole epoch:95.19
+
+epoch 348
+current temp: 1
+loss:0.014443678761352946 mse:0.0015232948353514075
+time for this dyn_adj epoch:94.9
+best epoch: 337
+time for this whole epoch:94.9
+
+epoch 349
+current temp: 1
+loss:0.014627993114685215 mse:0.0016582137322984636
+time for this dyn_adj epoch:95.11
+best epoch: 337
+time for this whole epoch:95.11
+
+epoch 350
+current temp: 1
+loss:0.015223862858488018 mse:0.001716646074783057
+time for this dyn_adj epoch:95.34
+best epoch: 337
+time for this whole epoch:95.34
+
+epoch 351
+current temp: 1
+loss:0.016190229963884695 mse:0.0021726018167100847
+time for this dyn_adj epoch:95.27
+best epoch: 337
+time for this whole epoch:95.27
+
+epoch 352
+current temp: 1
+loss:0.015330108641328086 mse:0.001686804578639567
+time for this dyn_adj epoch:95.2
+best epoch: 337
+time for this whole epoch:95.2
+
+epoch 353
+current temp: 1
+loss:0.01545075048157142 mse:0.0017713747220113873
+time for this dyn_adj epoch:94.73
+best epoch: 337
+time for this whole epoch:94.73
+
+epoch 354
+current temp: 1
+loss:0.014910071513398663 mse:0.0015831607161089778
+time for this dyn_adj epoch:95.38
+best epoch: 337
+time for this whole epoch:95.38
+
+epoch 355
+current temp: 1
+loss:0.015107332373320022 mse:0.0016694606165401638
+time for this dyn_adj epoch:94.35
+best epoch: 337
+time for this whole epoch:94.35
+
+epoch 356
+current temp: 1
+loss:0.014474994596614844 mse:0.0016300255665555596
+time for this dyn_adj epoch:95.35
+best epoch: 337
+time for this whole epoch:95.35
+
+epoch 357
+current temp: 1
+loss:0.014761761354645839 mse:0.0016266602324321866
+time for this dyn_adj epoch:95.35
+best epoch: 337
+time for this whole epoch:95.35
+
+epoch 358
+current temp: 1
+loss:0.015297348593321797 mse:0.0017562354332767427
+time for this dyn_adj epoch:95.31
+best epoch: 337
+time for this whole epoch:95.31
+
+epoch 359
+current temp: 1
+loss:0.0151392195077895 mse:0.0015493769315071404
+time for this dyn_adj epoch:95.25
+best epoch: 337
+time for this whole epoch:95.25
+
+epoch 360
+current temp: 1
+loss:0.015472494808051605 mse:0.001914433145429939
+time for this dyn_adj epoch:95.25
+best epoch: 337
+time for this whole epoch:95.25
+
+epoch 361
+current temp: 1
+loss:0.015422681083837132 mse:0.001857826195191592
+time for this dyn_adj epoch:95.33
+best epoch: 337
+time for this whole epoch:95.33
+
+epoch 362
+current temp: 1
+loss:0.013843975154564675 mse:0.0014734741998836398
+time for this dyn_adj epoch:95.34
+best epoch: 362
+best epoch: 362
+time for this whole epoch:96.41
+
+epoch 363
+current temp: 1
+loss:0.014996533147783996 mse:0.0017798318876884878
+time for this dyn_adj epoch:95.17
+best epoch: 362
+time for this whole epoch:95.17
+
+epoch 364
+current temp: 1
+loss:0.015062145775975774 mse:0.0017032896867021918
+time for this dyn_adj epoch:94.78
+best epoch: 362
+time for this whole epoch:94.78
+
+epoch 365
+current temp: 1
+loss:0.014943911965976693 mse:0.001732818374875933
+time for this dyn_adj epoch:95.16
+best epoch: 362
+time for this whole epoch:95.16
+
+epoch 366
+current temp: 1
+loss:0.015462423653122892 mse:0.0016629252349957824
+time for this dyn_adj epoch:95.28
+best epoch: 362
+time for this whole epoch:95.28
+
+epoch 367
+current temp: 1
+loss:0.014998540699490363 mse:0.0015682626981288195
+time for this dyn_adj epoch:95.27
+best epoch: 362
+time for this whole epoch:95.27
+
+epoch 368
+current temp: 1
+loss:0.014820138836169786 mse:0.0016030976548790932
+time for this dyn_adj epoch:95.02
+best epoch: 362
+time for this whole epoch:95.02
+
+epoch 369
+current temp: 1
+loss:0.014363372704483242 mse:0.0016223722486756742
+time for this dyn_adj epoch:95.4
+best epoch: 362
+time for this whole epoch:95.4
+
+epoch 370
+current temp: 1
+loss:0.014229726881138147 mse:0.0015424902085214853
+time for this dyn_adj epoch:95.32
+best epoch: 362
+time for this whole epoch:95.32
+
+epoch 371
+current temp: 1
+loss:0.015517049070224054 mse:0.0017837545019574463
+time for this dyn_adj epoch:95.26
+best epoch: 362
+time for this whole epoch:95.26
+
+epoch 372
+current temp: 1
+loss:0.01471167583361025 mse:0.001471988158300519
+time for this dyn_adj epoch:95.27
+best epoch: 362
+time for this whole epoch:95.27
+
+epoch 373
+current temp: 1
+loss:0.014429966929391878 mse:0.00153627764666453
+time for this dyn_adj epoch:95.22
+best epoch: 362
+time for this whole epoch:95.22
+
+epoch 374
+current temp: 1
+loss:0.015139143616074876 mse:0.0017137173563241959
+time for this dyn_adj epoch:95.17
+best epoch: 362
+time for this whole epoch:95.17
+
+epoch 375
+current temp: 1
+loss:0.015048092690944469 mse:0.0017811564612202346
+time for this dyn_adj epoch:95.3
+best epoch: 362
+time for this whole epoch:95.3
+
+epoch 376
+current temp: 1
+loss:0.015092469865471832 mse:0.0015801021363586187
+time for this dyn_adj epoch:95.36
+best epoch: 362
+time for this whole epoch:95.36
+
+epoch 377
+current temp: 1
+loss:0.015003740884575964 mse:0.0017911401228047907
+time for this dyn_adj epoch:94.15
+best epoch: 362
+time for this whole epoch:94.15
+
+epoch 378
+current temp: 1
+loss:0.014926984737552754 mse:0.001661400543525815
+time for this dyn_adj epoch:95.33
+best epoch: 362
+time for this whole epoch:95.33
+
+epoch 379
+current temp: 1
+loss:0.014464606410607445 mse:0.0016222065314650536
+time for this dyn_adj epoch:95.31
+best epoch: 362
+time for this whole epoch:95.31
+
+epoch 380
+current temp: 1
+loss:0.014628057962895114 mse:0.0014967952156439424
+time for this dyn_adj epoch:95.37
+best epoch: 362
+time for this whole epoch:95.37
+
+epoch 381
+current temp: 1
+loss:0.015220119633309938 mse:0.0017102076672017574
+time for this dyn_adj epoch:94.96
+best epoch: 362
+time for this whole epoch:94.96
+
+epoch 382
+current temp: 1
+loss:0.015096227421910875 mse:0.001628732425160706
+time for this dyn_adj epoch:95.28
+best epoch: 362
+time for this whole epoch:95.28
+
+epoch 383
+current temp: 1
+loss:0.015301983401706973 mse:0.001600418472662568
+time for this dyn_adj epoch:95.21
+best epoch: 362
+time for this whole epoch:95.21
+
+epoch 384
+current temp: 1
+loss:0.014779338959012959 mse:0.001596401387359947
+time for this dyn_adj epoch:95.25
+best epoch: 362
+time for this whole epoch:95.25
+
+epoch 385
+current temp: 1
+loss:0.015088415901316394 mse:0.0016723917215131223
+time for this dyn_adj epoch:95.3
+best epoch: 362
+time for this whole epoch:95.3
+
+epoch 386
+current temp: 1
+loss:0.014374971107672 mse:0.0016393495025113225
+time for this dyn_adj epoch:95.3
+best epoch: 362
+time for this whole epoch:95.3
+
+epoch 387
+current temp: 1
+loss:0.01495026169867317 mse:0.0018252540612593293
+time for this dyn_adj epoch:95.12
+best epoch: 362
+time for this whole epoch:95.12
+
+epoch 388
+current temp: 1
+loss:0.014623554734264495 mse:0.001723203167784959
+time for this dyn_adj epoch:95.18
+best epoch: 362
+time for this whole epoch:95.18
+
+epoch 389
+current temp: 1
+loss:0.014887924112115081 mse:0.001669408055022359
+time for this dyn_adj epoch:95.34
+best epoch: 362
+time for this whole epoch:95.34
+
+epoch 390
+current temp: 1
+loss:0.014708503309167216 mse:0.0016164096305146813
+time for this dyn_adj epoch:95.28
+best epoch: 362
+time for this whole epoch:95.28
+
+epoch 391
+current temp: 1
+loss:0.014906382303068101 mse:0.0016856384463608265
+time for this dyn_adj epoch:95.29
+best epoch: 362
+time for this whole epoch:95.29
+
+epoch 392
+current temp: 1
+loss:0.015142927815178758 mse:0.0015076588606461883
+time for this dyn_adj epoch:95.14
+best epoch: 362
+time for this whole epoch:95.14
+
+epoch 393
+current temp: 1
+loss:0.014866116472419401 mse:0.0016843353514559567
+time for this dyn_adj epoch:95.29
+best epoch: 362
+time for this whole epoch:95.29
+
+epoch 394
+current temp: 1
+loss:0.014243174011669177 mse:0.0015095347189344466
+time for this dyn_adj epoch:95.31
+best epoch: 362
+time for this whole epoch:95.31
+
+epoch 395
+current temp: 1
+loss:0.014394059994851221 mse:0.0016091836732812226
+time for this dyn_adj epoch:95.18
+best epoch: 362
+time for this whole epoch:95.18
+
+epoch 396
+current temp: 1
+loss:0.015137199642018685 mse:0.0017520973342470825
+time for this dyn_adj epoch:95.25
+best epoch: 362
+time for this whole epoch:95.25
+
+epoch 397
+current temp: 1
+loss:0.014591213913937612 mse:0.0015246061375364661
+time for this dyn_adj epoch:94.35
+best epoch: 362
+time for this whole epoch:94.35
+
+epoch 398
+current temp: 1
+loss:0.014560598551101873 mse:0.001664611918386072
+time for this dyn_adj epoch:95.28
+best epoch: 362
+time for this whole epoch:95.28
+
+epoch 399
+current temp: 1
+loss:0.014962408818111977 mse:0.0016441488405689597
+time for this dyn_adj epoch:95.28
+best epoch: 362
+time for this whole epoch:95.28
+
+epoch 400
+current temp: 1
+loss:0.015507609501638946 mse:0.0017970469198189676
+time for this dyn_adj epoch:95.15
+best epoch: 362
+time for this whole epoch:95.15
+
+epoch 401
+current temp: 1
+loss:0.014457266298118967 mse:0.0017303672502748668
+time for this dyn_adj epoch:95.37
+best epoch: 362
+time for this whole epoch:95.37
+
+epoch 402
+current temp: 1
+loss:0.014895835531312317 mse:0.0016124561079777777
+time for this dyn_adj epoch:95.26
+best epoch: 362
+time for this whole epoch:95.26
+
+epoch 403
+current temp: 1
+loss:0.014467072567801838 mse:0.0016129764844663441
+time for this dyn_adj epoch:95.29
+best epoch: 362
+time for this whole epoch:95.29
+
+epoch 404
+current temp: 1
+loss:0.014256009871262694 mse:0.001503779087215662
+time for this dyn_adj epoch:95.23
+best epoch: 362
+time for this whole epoch:95.23
+
+epoch 405
+current temp: 1
+loss:0.014014671159072003 mse:0.001549605221953243
+time for this dyn_adj epoch:94.78
+best epoch: 362
+time for this whole epoch:94.78
+
+epoch 406
+current temp: 1
+loss:0.014466436658473237 mse:0.0014802308287471533
+time for this dyn_adj epoch:95.1
+best epoch: 362
+time for this whole epoch:95.1
+
+epoch 407
+current temp: 1
+loss:0.014293824709066111 mse:0.00156128010712564
+time for this dyn_adj epoch:95.35
+best epoch: 362
+time for this whole epoch:95.35
+
+epoch 408
+current temp: 1
+loss:0.015205822491801099 mse:0.0019641901017166674
+time for this dyn_adj epoch:95.36
+best epoch: 362
+time for this whole epoch:95.36
+
+epoch 409
+current temp: 1
+loss:0.014998107742482246 mse:0.0015638142358511686
+time for this dyn_adj epoch:95.14
+best epoch: 362
+time for this whole epoch:95.14
+
+epoch 410
+current temp: 1
+loss:0.014702535283667339 mse:0.0015304370899684727
+time for this dyn_adj epoch:95.29
+best epoch: 362
+time for this whole epoch:95.29
+
+epoch 411
+current temp: 1
+loss:0.013908421610427692 mse:0.0014266931102611125
+time for this dyn_adj epoch:94.44
+best epoch: 362
+time for this whole epoch:94.44
+
+epoch 412
+current temp: 1
+loss:0.015210712405779894 mse:0.001636237429920584
+time for this dyn_adj epoch:95.18
+best epoch: 362
+time for this whole epoch:95.18
+
+epoch 413
+current temp: 1
+loss:0.014721528708724483 mse:0.0015840964042581618
+time for this dyn_adj epoch:95.31
+best epoch: 362
+time for this whole epoch:95.31
+
+epoch 414
+current temp: 1
+loss:0.014434095184695959 mse:0.0017217854619957507
+time for this dyn_adj epoch:95.36
+best epoch: 362
+time for this whole epoch:95.36
+
+epoch 415
+current temp: 1
+loss:0.014476887728696018 mse:0.0015001745778135955
+time for this dyn_adj epoch:95.29
+best epoch: 362
+time for this whole epoch:95.29
+
+epoch 416
+current temp: 1
+loss:0.01464737910680285 mse:0.0016300348215736449
+time for this dyn_adj epoch:94.56
+best epoch: 362
+time for this whole epoch:94.56
+
+epoch 417
+current temp: 1
+loss:0.014468296441257184 mse:0.0015009069466032088
+time for this dyn_adj epoch:95.34
+best epoch: 362
+time for this whole epoch:95.34
+
+epoch 418
+current temp: 1
+loss:0.014606414401221094 mse:0.001492127135861665
+time for this dyn_adj epoch:95.01
+best epoch: 362
+time for this whole epoch:95.01
+
+epoch 419
+current temp: 1
+loss:0.014775967124607776 mse:0.0017501858528703451
+time for this dyn_adj epoch:94.97
+best epoch: 362
+time for this whole epoch:94.97
+
+epoch 420
+current temp: 1
+loss:0.015076038175554345 mse:0.0015942029422149062
+time for this dyn_adj epoch:94.96
+best epoch: 362
+time for this whole epoch:94.96
+
+epoch 421
+current temp: 1
+loss:0.01463630371042918 mse:0.0016890623955987394
+time for this dyn_adj epoch:95.29
+best epoch: 362
+time for this whole epoch:95.29
+
+epoch 422
+current temp: 1
+loss:0.015059576504331592 mse:0.0015929710934869945
+time for this dyn_adj epoch:95.33
+best epoch: 362
+time for this whole epoch:95.33
+
+epoch 423
+current temp: 1
+loss:0.014108528666707299 mse:0.0015059474972076714
+time for this dyn_adj epoch:95.3
+best epoch: 362
+time for this whole epoch:95.3
+
+epoch 424
+current temp: 1
+loss:0.014621825412476894 mse:0.0016823773621581495
+time for this dyn_adj epoch:95.32
+best epoch: 362
+time for this whole epoch:95.32
+
+epoch 425
+current temp: 1
+loss:0.014961991996257513 mse:0.0017098983516916633
+time for this dyn_adj epoch:95.32
+best epoch: 362
+time for this whole epoch:95.32
+
+epoch 426
+current temp: 1
+loss:0.014394048751503661 mse:0.0015705540427006781
+time for this dyn_adj epoch:95.24
+best epoch: 362
+time for this whole epoch:95.24
+
+epoch 427
+current temp: 1
+loss:0.014077183116187598 mse:0.0014312266721390188
+time for this dyn_adj epoch:95.22
+best epoch: 362
+time for this whole epoch:95.22
+
+epoch 428
+current temp: 1
+loss:0.014731202731395863 mse:0.0016476197051815689
+time for this dyn_adj epoch:95.44
+best epoch: 362
+time for this whole epoch:95.44
+
+epoch 429
+current temp: 1
+loss:0.014380272252345012 mse:0.0016034163418225944
+time for this dyn_adj epoch:95.19
+best epoch: 362
+time for this whole epoch:95.19
+
+epoch 430
+current temp: 1
+loss:0.014418966037547384 mse:0.0016506416141055524
+time for this dyn_adj epoch:95.33
+best epoch: 362
+time for this whole epoch:95.33
+
+epoch 431
+current temp: 1
+loss:0.01528903539169061 mse:0.0015148280654102564
+time for this dyn_adj epoch:95.25
+best epoch: 362
+time for this whole epoch:95.25
+
+epoch 432
+current temp: 1
+loss:0.01341866857565977 mse:0.001379883207846433
+time for this dyn_adj epoch:95.28
+best epoch: 432
+best epoch: 432
+time for this whole epoch:96.4
+
+epoch 433
+current temp: 1
+loss:0.014892843531135782 mse:0.0016555222100578249
+time for this dyn_adj epoch:95.17
+best epoch: 432
+time for this whole epoch:95.17
+
+epoch 434
+current temp: 1
+loss:0.014697642688206215 mse:0.0014696031576022506
+time for this dyn_adj epoch:95.22
+best epoch: 432
+time for this whole epoch:95.22
+
+epoch 435
+current temp: 1
+loss:0.014627837424253502 mse:0.0015313220210373402
+time for this dyn_adj epoch:95.31
+best epoch: 432
+time for this whole epoch:95.31
+
+epoch 436
+current temp: 1
+loss:0.014734847956135843 mse:0.0014836759655736387
+time for this dyn_adj epoch:95.34
+best epoch: 432
+time for this whole epoch:95.34
+
+epoch 437
+current temp: 1
+loss:0.014649661727859656 mse:0.0015851306961849332
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+
+epoch 438
+current temp: 1
+loss:0.014515594927717937 mse:0.0014126839814707637
+time for this dyn_adj epoch:94.87
+best epoch: 432
+time for this whole epoch:94.87
+
+epoch 439
+current temp: 1
+loss:0.014505072672285207 mse:0.0014866864075884223
+time for this dyn_adj epoch:95.22
+best epoch: 432
+time for this whole epoch:95.22
+
+epoch 440
+current temp: 1
+loss:0.014290708212181256 mse:0.0015519688022322953
+time for this dyn_adj epoch:95.21
+best epoch: 432
+time for this whole epoch:95.21
+
+epoch 441
+current temp: 1
+loss:0.014377274814416155 mse:0.0014547144528478384
+time for this dyn_adj epoch:95.31
+best epoch: 432
+time for this whole epoch:95.31
+
+epoch 442
+current temp: 1
+loss:0.01384552097032394 mse:0.0014572619111277163
+time for this dyn_adj epoch:95.37
+best epoch: 432
+time for this whole epoch:95.37
+
+epoch 443
+current temp: 1
+loss:0.014371255654220212 mse:0.0014493110356852412
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+
+epoch 444
+current temp: 1
+loss:0.014424844357177485 mse:0.0016764926258474588
+time for this dyn_adj epoch:95.29
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 445
+current temp: 1
+loss:0.014255784880795916 mse:0.0017256215796805918
+time for this dyn_adj epoch:95.23
+best epoch: 432
+time for this whole epoch:95.23
+
+epoch 446
+current temp: 1
+loss:0.014799874371287089 mse:0.0017007641145028174
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+
+epoch 447
+current temp: 1
+loss:0.014719028949417247 mse:0.0016846130602061749
+time for this dyn_adj epoch:95.23
+best epoch: 432
+time for this whole epoch:95.23
+
+epoch 448
+current temp: 1
+loss:0.014216111223996002 mse:0.0016037339228205383
+time for this dyn_adj epoch:95.34
+best epoch: 432
+time for this whole epoch:95.34
+
+epoch 449
+current temp: 1
+loss:0.014675448373288515 mse:0.0016192049952223897
+time for this dyn_adj epoch:95.3
+best epoch: 432
+time for this whole epoch:95.3
+
+epoch 450
+current temp: 1
+loss:0.0146178834204621 mse:0.0016598555957898498
+time for this dyn_adj epoch:95.28
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 451
+current temp: 1
+loss:0.01418384113328645 mse:0.0015348662273027003
+time for this dyn_adj epoch:95.17
+best epoch: 432
+time for this whole epoch:95.17
+
+epoch 452
+current temp: 1
+loss:0.01434170505896223 mse:0.0015978110022842884
+time for this dyn_adj epoch:95.03
+best epoch: 432
+time for this whole epoch:95.03
+
+epoch 453
+current temp: 1
+loss:0.014304864410256815 mse:0.0017083454295061529
+time for this dyn_adj epoch:94.98
+best epoch: 432
+time for this whole epoch:94.98
+
+epoch 454
+current temp: 1
+loss:0.014665428163432203 mse:0.0015357775264419615
+time for this dyn_adj epoch:95.24
+best epoch: 432
+time for this whole epoch:95.24
+
+epoch 455
+current temp: 1
+loss:0.013994236168628953 mse:0.0016385747003369033
+time for this dyn_adj epoch:95.21
+best epoch: 432
+time for this whole epoch:95.21
+
+epoch 456
+current temp: 1
+loss:0.015364273359366055 mse:0.0016840880271047354
+time for this dyn_adj epoch:95.2
+best epoch: 432
+time for this whole epoch:95.2
+
+epoch 457
+current temp: 1
+loss:0.014462825057690655 mse:0.0017189659993164241
+time for this dyn_adj epoch:95.24
+best epoch: 432
+time for this whole epoch:95.24
+
+epoch 458
+current temp: 1
+loss:0.01625465003625751 mse:0.001698508218396455
+time for this dyn_adj epoch:95.19
+best epoch: 432
+time for this whole epoch:95.19
+
+epoch 459
+current temp: 1
+loss:0.014464067617377792 mse:0.0014321899507194757
+time for this dyn_adj epoch:94.93
+best epoch: 432
+time for this whole epoch:94.93
+
+epoch 460
+current temp: 1
+loss:0.014665427514214256 mse:0.0015632992144674063
+time for this dyn_adj epoch:95.34
+best epoch: 432
+time for this whole epoch:95.34
+
+epoch 461
+current temp: 1
+loss:0.01444356416020362 mse:0.001603890210390091
+time for this dyn_adj epoch:95.35
+best epoch: 432
+time for this whole epoch:95.35
+
+epoch 462
+current temp: 1
+loss:0.014929276664036616 mse:0.001723799156025052
+time for this dyn_adj epoch:95.01
+best epoch: 432
+time for this whole epoch:95.01
+
+epoch 463
+current temp: 1
+loss:0.014747970812515297 mse:0.0015318745281547308
+time for this dyn_adj epoch:95.18
+best epoch: 432
+time for this whole epoch:95.18
+
+epoch 464
+current temp: 1
+loss:0.014350804759858438 mse:0.0015500347944907844
+time for this dyn_adj epoch:95.34
+best epoch: 432
+time for this whole epoch:95.34
+
+epoch 465
+current temp: 1
+loss:0.016310000355405873 mse:0.00174369610613212
+time for this dyn_adj epoch:95.39
+best epoch: 432
+time for this whole epoch:95.39
+
+epoch 466
+current temp: 1
+loss:0.01400761509235027 mse:0.0015663125086575747
+time for this dyn_adj epoch:95.33
+best epoch: 432
+time for this whole epoch:95.33
+
+epoch 467
+current temp: 1
+loss:0.013993769642479194 mse:0.0014464903506450355
+time for this dyn_adj epoch:95.27
+best epoch: 432
+time for this whole epoch:95.27
+
+epoch 468
+current temp: 1
+loss:0.014115359909606374 mse:0.0016150662559084594
+time for this dyn_adj epoch:95.31
+best epoch: 432
+time for this whole epoch:95.31
+
+epoch 469
+current temp: 1
+loss:0.014210436155603735 mse:0.001485742162913084
+time for this dyn_adj epoch:95.26
+best epoch: 432
+time for this whole epoch:95.26
+
+epoch 470
+current temp: 1
+loss:0.013859545415474413 mse:0.0014795958413742483
+time for this dyn_adj epoch:95.41
+best epoch: 432
+time for this whole epoch:95.41
+
+epoch 471
+current temp: 1
+loss:0.014074356009833415 mse:0.0015170397236943245
+time for this dyn_adj epoch:95.15
+best epoch: 432
+time for this whole epoch:95.15
+
+epoch 472
+current temp: 1
+loss:0.014197712305142461 mse:0.0015587408561259508
+time for this dyn_adj epoch:95.29
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 473
+current temp: 1
+loss:0.014809806621093612 mse:0.0015922295860946178
+time for this dyn_adj epoch:95.32
+best epoch: 432
+time for this whole epoch:95.32
+
+epoch 474
+current temp: 1
+loss:0.014548076414667228 mse:0.0014936549123376608
+time for this dyn_adj epoch:95.39
+best epoch: 432
+time for this whole epoch:95.39
+
+epoch 475
+current temp: 1
+loss:0.014293297560511693 mse:0.0015357565134763718
+time for this dyn_adj epoch:95.29
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 476
+current temp: 1
+loss:0.01415497105166708 mse:0.0016883611679077148
+time for this dyn_adj epoch:95.2
+best epoch: 432
+time for this whole epoch:95.2
+
+epoch 477
+current temp: 1
+loss:0.013867634676138427 mse:0.0014070658944547176
+time for this dyn_adj epoch:95.32
+best epoch: 432
+time for this whole epoch:95.32
+
+epoch 478
+current temp: 1
+loss:0.013865392228888985 mse:0.0014466013526543975
+time for this dyn_adj epoch:95.24
+best epoch: 432
+time for this whole epoch:95.24
+
+epoch 479
+current temp: 1
+loss:0.014323889001718243 mse:0.0015315998462028801
+time for this dyn_adj epoch:94.99
+best epoch: 432
+time for this whole epoch:94.99
+
+epoch 480
+current temp: 1
+loss:0.015108409915376191 mse:0.001659543311689049
+time for this dyn_adj epoch:95.28
+best epoch: 432
+time for this whole epoch:95.28
+
+epoch 481
+current temp: 1
+loss:0.013879001466738004 mse:0.0013506419491022825
+time for this dyn_adj epoch:95.2
+best epoch: 432
+time for this whole epoch:95.2
+
+epoch 482
+current temp: 1
+loss:0.014661835826669968 mse:0.001731901429593563
+time for this dyn_adj epoch:95.23
+best epoch: 432
+time for this whole epoch:95.23
+
+epoch 483
+current temp: 1
+loss:0.013432464143456169 mse:0.0013096194597892463
+time for this dyn_adj epoch:95.29
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 484
+current temp: 1
+loss:0.014191484961880656 mse:0.0015255198231898248
+time for this dyn_adj epoch:95.23
+best epoch: 432
+time for this whole epoch:95.23
+
+epoch 485
+current temp: 1
+loss:0.014460692554649567 mse:0.0014837089111097157
+time for this dyn_adj epoch:95.21
+best epoch: 432
+time for this whole epoch:95.21
+
+epoch 486
+current temp: 1
+loss:0.014062635240232348 mse:0.001494930125772953
+time for this dyn_adj epoch:95.21
+best epoch: 432
+time for this whole epoch:95.21
+
+epoch 487
+current temp: 1
+loss:0.014457923430824244 mse:0.001558641146402806
+time for this dyn_adj epoch:94.92
+best epoch: 432
+time for this whole epoch:94.92
+
+epoch 488
+current temp: 1
+loss:0.014012723729591028 mse:0.0014996855752542615
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+
+epoch 489
+current temp: 1
+loss:0.014515279762736085 mse:0.0015060902223922312
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+
+epoch 490
+current temp: 1
+loss:0.015052751211856799 mse:0.001873561239335686
+time for this dyn_adj epoch:95.2
+best epoch: 432
+time for this whole epoch:95.2
+
+epoch 491
+current temp: 1
+loss:0.013816376123441224 mse:0.0013511274592019618
+time for this dyn_adj epoch:95.29
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 492
+current temp: 1
+loss:0.014831152307955578 mse:0.0015906370244920254
+time for this dyn_adj epoch:95.27
+best epoch: 432
+time for this whole epoch:95.27
+
+epoch 493
+current temp: 1
+loss:0.013980548676252013 mse:0.001610475592315197
+time for this dyn_adj epoch:95.33
+best epoch: 432
+time for this whole epoch:95.33
+
+epoch 494
+current temp: 1
+loss:0.01460667043400327 mse:0.001527454296592623
+time for this dyn_adj epoch:95.26
+best epoch: 432
+time for this whole epoch:95.26
+
+epoch 495
+current temp: 1
+loss:0.014407944945367894 mse:0.0014966095914132893
+time for this dyn_adj epoch:94.69
+best epoch: 432
+time for this whole epoch:94.69
+
+epoch 496
+current temp: 1
+loss:0.014648640310565267 mse:0.0014527558232657611
+time for this dyn_adj epoch:95.29
+best epoch: 432
+time for this whole epoch:95.29
+
+epoch 497
+current temp: 1
+loss:0.013556187103324287 mse:0.0013797942665405571
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+
+epoch 498
+current temp: 1
+loss:0.01389380220796091 mse:0.0014258080045692623
+time for this dyn_adj epoch:95.21
+best epoch: 432
+time for this whole epoch:95.21
+
+epoch 499
+current temp: 1
+loss:0.014610103228020158 mse:0.0015749430749565363
+time for this dyn_adj epoch:95.25
+best epoch: 432
+time for this whole epoch:95.25
+end_time: 2024-01-26 05:46:50
