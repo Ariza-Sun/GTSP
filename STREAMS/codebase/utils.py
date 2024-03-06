@@ -1,6 +1,7 @@
 import numpy as np
 import torch
 import networkx as nx
+import torchmetrics
 
 
 def filter_edge_index(edge_index, coords):
@@ -55,7 +56,7 @@ def count_parameters(model):
 
 def get_num_cycles(gra):
     # gra = gra.cpu().detach().numpy()
-    G = nx.from_numpy_matrix(gra)
+    G = nx.from_numpy_array(gra) # former: matrix
     H = G.to_directed()
     try:
         return torch.FloatTensor([len(list(nx.find_cycle(H, orientation="original")))])  # .cuda()
@@ -65,7 +66,7 @@ def get_num_cycles(gra):
 
 def is_dag(gr):
     # gr = gr.cpu().detach().numpy()
-    G = nx.from_numpy_matrix(gr)
+    G = nx.from_numpy_array(gr)
     return int(nx.is_directed_acyclic_graph(G))
 
 
@@ -89,3 +90,46 @@ def calc_discounted_rewards(rewards, gamma):
     return returns
 
 
+# My eval on dyn
+def accuracy(pred, y):
+    """
+    :param pred: predictions
+    :param y: ground truth
+    :return: accuracy, defined as 1 - (norm(y - pred) / norm(y))
+    """
+    return 1 - torch.linalg.norm(y - pred, "fro") / torch.linalg.norm(y, "fro") # use Frobenius norm
+
+
+def r2(pred, y):
+    """
+    :param y: ground truth
+    :param pred: predictions
+    :return: R square (coefficient of determination)
+    """
+
+    return 1 - torch.sum((y - pred) ** 2) / torch.sum((y - torch.mean(y)) ** 2)
+
+
+def explained_variance(pred, y):
+    return 1 - torch.var(y - pred) / torch.var(y)
+
+
+def cal_dyn_metrics(predictions,y):
+   rmse = torch.sqrt(torchmetrics.functional.mean_squared_error(predictions, y))
+   mae = torchmetrics.functional.mean_absolute_error(predictions, y)
+   acc =accuracy(predictions, y)
+   r_2 =r2(predictions, y)
+   explainedvariance = explained_variance(predictions, y)
+   return rmse, mae, acc, r_2, explainedvariance
+
+def dyn_evaluator(predictions,y,batch_size):
+    '''
+    evaluate for a batch, y.shape=(batchsize,nodesize, dim)
+    '''
+    predictions=torch.squeeze(predictions)
+    y=torch.squeeze(y)
+
+    
+    #print(predictions.shape,y.shape)
+    rmse, mae, accuracy, r2, explained_variance=cal_dyn_metrics(predictions,y)
+    return rmse.item(), mae.item(), accuracy.item(), r2.item(), explained_variance.item()

@@ -14,6 +14,11 @@ from itertools import combinations, permutations
 from enum import Enum
 from typing import List
 
+import numpy as np
+
+### Obeject used for data loading
+
+
 class Tasks(Enum):
     prediction = "prediction"
     reconstruction = "reconstruction"
@@ -27,7 +32,7 @@ class TimeSeriesDataset(object):
         :param data_path: path to datafile
         :param categorical_cols: name of the categorical columns, if None pass empty list
         :param index_col: column to use as index
-        :param target_col: name of the targeted column
+        :param target_col: name of the targeted column 
         :param seq_length: window length to use
         :param batch_size:
         :param prediction_window: window length to predict
@@ -35,13 +40,15 @@ class TimeSeriesDataset(object):
         self.task = task.value
 
         # data_path = pkg_resources.resource_filename("tsa", data_path)
-        self.data = pd.read_csv(data_path, index_col=index_col)[0:1460]
+        #self.data = pd.read_csv(data_path, index_col=index_col)[0:1460]
+        self.data = pd.read_csv(data_path, index_col=index_col)
         # a  = [self.data.columns[0]]
         # a.extend(self.data.columns[-250:])
         # self.data = self.data[a]
         self.categorical_cols = categorical_cols
         # self.numerical_cols = list(set(self.data.columns) - set(categorical_cols) - set(target_col))
         self.numerical_cols = self.data.columns
+        print("The number of node is:")
         print(len(self.numerical_cols))
         self.target_col = target_col
 
@@ -60,6 +67,12 @@ class TimeSeriesDataset(object):
     def preprocess_data(self):
         """Preprocessing function"""
         X = self.data  # .drop(self.target_col, axis=1,inplace=False)
+        # norm
+        val=X.values
+        max_val=np.max(val)
+        min_val=np.min(val)
+        if max_val!=min_val:
+            X=(X-max_val)/(max_val-min_val)
         # y = self.data[self.target_col]
 
         X_train, X_test = train_test_split(X, train_size=0.8, shuffle=False)
@@ -108,9 +121,9 @@ class TimeSeriesDataset(object):
 
         :return: DataLoaders associated to training and testing data
         """
-        X_train, X_test, y_train, y_test = self.preprocess_data()
+        X_train, X_test, y_train, y_test = self.preprocess_data()  # y is none
         nb_features = X_train.shape[1]
-
+     
         train_dataset = self.frame_series(X_train, y_train)
         test_dataset = self.frame_series(X_test, y_test)
 

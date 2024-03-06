@@ -33,7 +33,7 @@ class MyDataset(Dataset):
         return self.data_tensor[index], self.target_tensor[index]
 
 
-def load_parking(batch_size=128,network='ER',dataset='SH_Park'):
+def load_parking(batch_size=128,network='ER',dataset='SH_Park'): # aidd t-1 -> t
 
     if dataset=='SH_Park':
         path='data/SH_Park/SH_Park_10_d.csv'

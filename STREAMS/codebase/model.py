@@ -10,9 +10,10 @@ from torch_geometric.nn import GCNConv, GATConv
 import plotly.graph_objects as go
 from scipy.sparse import coo_matrix
 from geopy.distance import distance
+from itertools import combinations, permutations
 
 # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-device = 'cpu'
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
 from utils import *
 
@@ -71,10 +72,12 @@ class AttnEncoder(nn.Module):
         Forward computation.
 
         Args:
-            input_data: (torch.Tensor): tensor of input data
+            input_data: (torch.Tensor): tensor of input data (batchsize, seq_len, sample_node_num)
         """
+    
         spatial = self.spatial_mat[sample]
         spatial = spatial.to(device)
+        # init hidden state
         h_t, c_t = (init_hidden(input_data, self.hidden_size, num_dir=self.directions),
                     init_hidden(input_data, self.hidden_size, num_dir=self.directions))
 
@@ -195,7 +198,7 @@ class AutoEncForecast(nn.Module):
         self.decoder = AttnDecoder(seq_len, hidden_size_encoder, hidden_size_decoder, output_size, edge_index).to(
             device) if temporal_att else Decoder(seq_len, hidden_size_decoder, output_size, edge_index).to(device)
 
-        self.fc1 = nn.Linear(512, 1)  # .cuda()
+        self.fc1 = nn.Linear(256, 1)  # .cuda()  #2*batchsize
         self.tanh = nn.Tanh()  # .cuda()
         self.sigmoid = nn.Sigmoid()
         self.sample_size = sample_size
