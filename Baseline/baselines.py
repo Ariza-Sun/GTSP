@@ -12,7 +12,7 @@ import statsmodels.api as sm
 train_rate = 0.8           # 80% of data is used for training
 seq_len = 3                # input sequence length
 pre_len = 1                # output sequence length
-dataset='COVID'          # choose from {'SH_Park','CN_AQI','Metr-LA','PeMS08','COVID'}
+dataset='Rumor'          # choose from {'SH_Park','CN_AQI','Metr-LA','PeMS08','COVID',‘Rumor’}
 method = 'SVR'              # LM or HA or SVR or ARIMA
 
 np.seterr(divide = 'ignore')
@@ -21,9 +21,11 @@ np.seterr(divide = 'ignore')
 def preprocess_data(data, time_len, rate, seq_len, pre_len, norm=True):
     data1 = np.mat(data)
     
+    max_num=np.max(data1)
+    min_num=np.min(data1)   
     # Norm
-    if np.max(data1)!=np.min(data1) and norm==True:
-        data1=(data1-np.max(data1))/(np.max(data1)-np.mean(data1))
+    if max_num!=min_num and norm==True:
+        data1=(data1-max_num)/(max_num-min_num)
 
     train_size = int(time_len * rate)
     train_data = data1[0:train_size]
@@ -38,10 +40,14 @@ def preprocess_data(data, time_len, rate, seq_len, pre_len, norm=True):
         b = test_data[i: i + seq_len + pre_len]
         testX.append(b[0 : seq_len])
         testY.append(b[seq_len : seq_len + pre_len])
-    return trainX, trainY, testX, testY
+    return trainX, trainY, testX, testY, max_num, min_num
     
 ###### evaluation ######
-def evaluation(a,b):
+def evaluation(a,b,max_num, min_num):
+    # Recover
+    a=a*(max_num-min_num)+min_num
+    b=b*(max_num-min_num)+min_num
+
     rmse = math.sqrt(mean_squared_error(a,b))
     mae = mean_absolute_error(a, b)
     F_norm = la.norm(a-b)/la.norm(a)
@@ -61,12 +67,14 @@ elif dataset=='PeMS08':
     path='../data/PeMS08/PeMS08_Flow.csv' ### to be continued...
 elif dataset=='COVID':
     path='../data/COVID/covid_us.csv' 
+elif dataset=='Rumor':
+    path='../data/SimRumor/Rumor_S.csv'
 
 data = pd.read_csv(path)
 
 time_len = data.shape[0]   # number of time slots
 num_nodes = data.shape[1]  # node number
-trainX,trainY,testX,testY = preprocess_data(data, time_len, train_rate, seq_len, pre_len)
+trainX,trainY,testX,testY, max_num, min_num= preprocess_data(data, time_len, train_rate, seq_len, pre_len)
 
 
 
@@ -85,7 +93,7 @@ if method == 'LM':
     result1 = np.reshape(result1, [-1,num_nodes])
     testY1 = np.array(testY)
     testY1 = np.reshape(testY1, [-1,num_nodes])
-    rmse, mae, accuracy,r2,var = evaluation(testY1, result1)
+    rmse, mae, accuracy,r2,var = evaluation(testY1, result1, max_num, min_num)
     print('LM_rmse:%r'%rmse,
           'LM_mae:%r'%mae,
           'LM_acc:%r'%accuracy,
@@ -110,7 +118,7 @@ if method == 'HA':
     result1 = np.reshape(result1, [-1,num_nodes])
     testY1 = np.array(testY)
     testY1 = np.reshape(testY1, [-1,num_nodes])
-    rmse, mae, accuracy,r2,var = evaluation(testY1, result1)
+    rmse, mae, accuracy,r2,var = evaluation(testY1, result1, max_num, min_num)
     print('HA_rmse:%r'%rmse,
           'HA_mae:%r'%mae,
           'HA_acc:%r'%accuracy,
@@ -125,11 +133,14 @@ if method == 'SVR':
         print('Node: '+str(i))
 
         data1 = np.mat(data)
+        max_num=np.max(data1)
+        min_num=np.min(data1)
+
         if np.max(data1)!=np.min(data1):
-            data1=(data1-np.max(data1))/(np.max(data1)-np.mean(data1)) # norm in advance
+            data1=(data1-np.max(data1))/(np.max(data1)-np.min(data1)) # norm in advance
 
         a = data1[:,i]     # predict each node separately
-        a_X, a_Y, t_X, t_Y = preprocess_data(a, time_len, train_rate, seq_len, pre_len, norm=False)
+        a_X, a_Y, t_X, t_Y, _, _= preprocess_data(a, time_len, train_rate, seq_len, pre_len, norm=False)
         a_X = np.array(a_X)
         a_X = np.reshape(a_X,[-1, seq_len])
         a_Y = np.array(a_Y)
@@ -155,7 +166,7 @@ if method == 'SVR':
     testY1 = np.reshape(testY1, [-1,num_nodes])
     total = np.mat(total_acc)
     total[total<0] = 0
-    rmse1, mae1, acc1,r2,var = evaluation(testY1, result1)
+    rmse1, mae1, acc1,r2,var = evaluation(testY1, result1, max_num, min_num)
     print('SVR_rmse:%r'%rmse1,
           'SVR_mae:%r'%mae1,
           'SVR_acc:%r'%acc1,
